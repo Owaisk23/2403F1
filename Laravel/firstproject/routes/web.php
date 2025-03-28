@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use \App\Http\Controllers\MyController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,10 +14,29 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
 
-Route::get('/about', function () {
-    return view('about');
-});
+Route::get('/', [MyController::class, 'index']);
+Route::get('/about', [MyController::class, 'about']);
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });
+
+// Route::get('/about', function () {
+//     return view('about');
+// });
+
+// //Routes with parameters required
+// Route::get('/products/{paramname}', function () {
+//     return view('products');
+// });
+
+// // //Routes with parameters optional
+// // Route::get('/services/{paramname?}', function () {
+// //     return view('services');
+// // });
+
+// //another way to define routes
+// Route::view('/services', 'services');
+
+

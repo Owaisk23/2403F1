@@ -8,5 +8,6 @@
 <body>
     <h1>Welcome in laravel</h1>
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea incidunt corporis deleniti inventore doloremque sunt laboriosam aliquid cum rerum aspernatur. Culpa exercitationem enim molestias deleniti nisi, dolorum qui fugit consequatur!</p>
+    <a href="/about">About page</a>
 </body>
 </html>
