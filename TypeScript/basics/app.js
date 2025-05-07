@@ -127,8 +127,45 @@ if (passingResponse[1] === 200) {
     console.log(info);
 }
 var staff = [
-    [1, "Hassan Shehzad", "hassan@aptechnorth.edu.pk", "CAH"],
-    [2, "Sajida", "sajida@aptechnorth.edu.pk"],
-    [3, "Owais Ahmed", "owais@aptechnorth.edu.pk", "Manager Academics"],
-    [4, "Haris Naseer", "haris@aptechnorth.edu.pk", "Manager Academics"]
+    [1, "Hassan Shehzad", "hassan@aptechnorth.edu.pk", "CAH"], //0
+    [2, "Sajida", "sajida@aptechnorth.edu.pk"], //1
+    [3, "Owais Ahmed", "owais@aptechnorth.edu.pk", "Manager Academics"], //2
+    [4, "Haris Naseer", "haris@aptechnorth.edu.pk", "Manager Academics"] //3
 ];
+var payStubsList = [
+    [staff[0], 10000, 3200, 3000],
+    //   //[0][0], [0][1]    
+    [staff[1], 25000, 1800],
+    [staff[2], 45000, 2300, 3000, 4000],
+    [staff[3], 5000, 7800, 3000, 4000, 5000]
+];
+var monthOnePayStubs = payStubsList[0][1] + payStubsList[1][1] + payStubsList[2][1] + payStubsList[3][1];
+console.log(monthOnePayStubs); //85000
+//enum 
+var Color;
+(function (Color) {
+    Color[Color["Red"] = 0] = "Red";
+    Color[Color["Green"] = 1] = "Green";
+    Color[Color["Blue"] = 2] = "Blue";
+})(Color || (Color = {}));
+var c = Color.Red;
+console.log(c); //1
+var Color1;
+(function (Color1) {
+    Color1[Color1["Red"] = 1] = "Red";
+    Color1[Color1["Green"] = 2] = "Green";
+    Color1[Color1["Blue"] = 3] = "Blue";
+})(Color1 || (Color1 = {}));
+//          0      1      2
+//          1      2      3
+var colorName = Color1[3];
+console.log(colorName); //Blue
+var Color2;
+(function (Color2) {
+    Color2[Color2["Red"] = 4] = "Red";
+    Color2[Color2["Green"] = 7] = "Green";
+    Color2[Color2["Blue"] = 2] = "Blue";
+    Color2[Color2["Orange"] = 5] = "Orange";
+})(Color2 || (Color2 = {}));
+var colorName = Color2[7];
+console.log(colorName); //Green

@@ -179,23 +179,43 @@ if(passingResponse[1] === 200){
 type staffAccount = [number, string, string, string?];
 
 const staff: staffAccount[] = [
-    [1, "Hassan Shehzad", "hassan@aptechnorth.edu.pk", "CAH"],
-    [2, "Sajida", "sajida@aptechnorth.edu.pk" ],
-    [3, "Owais Ahmed", "owais@aptechnorth.edu.pk", "Manager Academics" ],
-    [4, "Haris Naseer", "haris@aptechnorth.edu.pk", "Manager Academics"]
+    [1, "Hassan Shehzad", "hassan@aptechnorth.edu.pk", "CAH"], //0
+    [2, "Sajida", "sajida@aptechnorth.edu.pk" ], //1
+    [3, "Owais Ahmed", "owais@aptechnorth.edu.pk", "Manager Academics" ], //2
+    [4, "Haris Naseer", "haris@aptechnorth.edu.pk", "Manager Academics"] //3
 ];
 
 
+type payStubs = [staffAccount, ...number[]];
+
+const payStubsList: payStubs[] = [
+    [staff[0], 10000, 3200, 3000],
+//   //[0][0], [0][1]    
+    [staff[1], 25000, 1800],
+    [staff[2], 45000, 2300, 3000, 4000],
+    [staff[3], 5000, 7800, 3000, 4000, 5000]
+];
 
 
+const monthOnePayStubs = payStubsList[0][1] + payStubsList[1][1] + payStubsList[2][1] + payStubsList[3][1];
+console.log(monthOnePayStubs); //85000
 
+//enum 
+enum Color {Red, Green, Blue}
 
+var c: Color = Color.Red;
+console.log(c); //1
 
+enum Color1 {Red=1, Green, Blue}
+//          0      1      2
+//          1      2      3
+var colorName: string = Color1[3];
+console.log(colorName); //Blue
 
-
-
-
-
+enum Color2 {Red=4, Green = 7, Blue = 2, Orange = 5}
+          
+var colorName: string = Color2[7];
+console.log(colorName); //Green
 
 
 
