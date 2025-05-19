@@ -11,4 +11,9 @@ export class ProductComponent {
   productName: String = 'IPhone 14';
   productPrice: Number = 1000;
   productDescription: String = 'This is a great phone';
+  isDisabled: Boolean = true;
+
+  changeName(){
+    console.log('Name changed');
+  }
 }
