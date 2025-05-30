@@ -25,7 +25,7 @@ export class AppComponent {
     console.log(products)
     this.http.post('https://crud-2403f1-default-rtdb.asia-southeast1.firebasedatabase.app/products.json', products)
     .subscribe((res) => {
-      console.log(res)
+      console.log(`new product: `, res)
     })
   }
 }
