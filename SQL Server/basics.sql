@@ -97,4 +97,62 @@ SELECT AVG(salary) as avg_salary FROM Employee;
 SELECT CONCAT(empName , ' has a designation of ', designation, ' has salary of ', salary)
 as emp_details FROM Employee;
 
+SELECT * FROM Employee;
 
+-- Sub Queries
+SELECT empName, salary From Employee
+where salary < (SELECT AVG(salary) as avg_salary FROM Employee);
+
+-- Group By Clause
+
+SELECT city, COUNT(id) as EmpCount FROM Employee GROUP BY city;
+
+SELECT city, Max(salary) as MaxSal FROM Employee GROUP BY city;
+
+SELECT city, Min(salary) as MinSal FROM Employee GROUP BY city;
+
+SELECT city, Sum(salary) as TotalSal FROM Employee GROUP BY city;
+
+INSERT INTO Employee(empName, designation, salary, city, deptId) VALUES
+('Uzair', 'MANAGER', 250000, 'Khi', null),
+('Zunno', 'MANAGER', 450000, 'Lhr', null),
+('Aneeq', 'MANAGER', 330000, 'Isb', null);
+
+SELECT designation, COUNT(id) as EmpCount FROM Employee
+Group By designation having designation = 'MANAGER';
+
+CREATE TABLE Department(
+deptId int PRIMARY KEY identity(1,1),
+deptName varchar(70) not null
+);
+
+INSERT INTO Department VALUES ('HR'),('Admin'),('SRO'),('Faculty'),('Techroom'),('Exam');
+
+SELECT * FROM Department;
+
+DROP TABLE Employee;
+
+Create Table Employee(
+	id INT PRIMARY KEY IDENTITY(1,1),
+	empName VARCHAR(255) NOT NULL,
+	designation VARCHAR(255) NOT NULL,
+	salary INT NOT NULL,
+	city VARCHAR(255) NOT NULL,
+	deptId INT,
+	FOREIGN KEY (deptId) references Department(deptId)
+);
+
+
+INSERT INTO Employee(empName, designation, salary, city, deptId) VALUES
+('Moin', 'Angular Developer', 150000, 'Khi', 1),
+('Aqsa', 'Php Developer', 50000, 'Lhr', 2),
+('Abdullah', 'Angular Developer', 130000, 'Isb', 6),
+('Basim', 'Dot Net Developer', 220000, 'Isb', 3),
+('Ammad', 'Php Developer', 40000, 'Khi', 4),
+('Uzair', 'MANAGER', 250000, 'Khi', 5),
+('Zunno', 'MANAGER', 450000, 'Lhr', 4),
+('Aneeq', 'MANAGER', 330000, 'Isb', 2),
+('Hanzala', 'React Developer', 70000, 'Lhr', 5),
+('Zainab', 'Laravel Developer', 65000, 'Khi', 3);
+
+SELECT * FROM Employee;
