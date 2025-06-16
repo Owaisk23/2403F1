@@ -201,7 +201,17 @@ SELECT deptName FROM Department;
 
 SELECT * From deptNames;
 
+-- DCL DATA CONTROL LANGUAGE
 
+SELECT * FROM sys.sql_logins;
 
+CREATE LOGIN ACC_EMP WITH Password='777';
+CREATE USER ACC_EMP FROM LOGIN ACC_EMP;
 
+DROP LOGIN ACC_EMP;
 
+GRANT SELECT on dbo.Employee TO ACC_EMP;
+
+GRANT SELECT on dbo.Department TO ACC_EMP;
+
+REVOKE SELECT on dbo.Employee TO ACC_EMP;
