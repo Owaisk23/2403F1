@@ -127,7 +127,7 @@ deptName varchar(70) not null
 );
 
 INSERT INTO Department VALUES ('HR'),('Admin'),('SRO'),('Faculty'),('Techroom'),('Exam');
-
+INSERT INTO Department VALUES ('BookDept'),('Marketing'),('Placement');
 SELECT * FROM Department;
 
 DROP TABLE Employee;
@@ -156,3 +156,52 @@ INSERT INTO Employee(empName, designation, salary, city, deptId) VALUES
 ('Zainab', 'Laravel Developer', 65000, 'Khi', 3);
 
 SELECT * FROM Employee;
+
+-- INNER JOINS
+
+SELECT empName, designation,deptName,city, salary 
+FROM Employee as emp INNER JOIN Department as d on emp.deptId=d.deptId
+
+
+INSERT INTO Employee(empName, designation, salary, city, deptId) VALUES
+('Ahmed', 'Angular Developer', 150000, 'Khi', null),
+('Saim', 'Php Developer', 50000, 'Lhr', null),
+('Zameer', 'Angular Developer', 130000, 'Isb', null);
+
+-- LEFT JOINS
+
+SELECT *
+FROM Employee as emp LEFT JOIN Department as d on emp.deptId=d.deptId;
+
+-- RIGHT JOINS
+
+SELECT *
+FROM Employee as emp RIGHT JOIN Department as d on emp.deptId=d.deptId;
+
+-- FULL OUTER JOIN
+
+SELECT *
+FROM Employee as emp FULL OUTER JOIN Department as d on emp.deptId=d.deptId;
+
+-- VIEWS
+
+SELECT empName,designation FROM Employee;
+
+CREATE VIEW [empDetails]
+AS
+SELECT empName,designation FROM Employee;
+
+
+SELECT * FROM empDetails;
+SELECT * FROM Department;
+
+CREATE VIEW [deptNames]
+AS
+SELECT deptName FROM Department;
+
+SELECT * From deptNames;
+
+
+
+
+
