@@ -210,8 +210,45 @@ CREATE USER ACC_EMP FROM LOGIN ACC_EMP;
 
 DROP LOGIN ACC_EMP;
 
-GRANT SELECT on dbo.Employee TO ACC_EMP;
+GRANT SELECT, INSERT, DELETE on dbo.Employee TO ACC_EMP;
 
 GRANT SELECT on dbo.Department TO ACC_EMP;
 
 REVOKE SELECT on dbo.Employee TO ACC_EMP;
+
+-- Stored Procedures
+CREATE PROCEDURE SeeEmp
+AS
+BEGIN
+SELECT * FROM Employee
+END;
+
+CREATE PROCEDURE SeeEmp2
+AS
+BEGIN
+SELECT * FROM Employee where id=2
+END;
+
+SeeEmp;
+
+SeeEmp2;
+
+CREATE PROCEDURE AddEmp @Name varchar(255), @desig varchar(70), @sal int, @city varchar(60),
+@dId int
+AS
+BEGIN
+INSERT INTO Employee VALUES (@Name, @desig, @sal, @city, @dId)
+SELECT * FROM Employee
+END;
+
+AddEmp @Name='Usman', @desig='Software Developer', @sal=80000, @city='Khi', @dId=2;
+AddEmp @Name='Zaweer', @desig='Angular Developer', @sal=12000, @city='Lhr', @dId=5;
+
+
+
+
+
+
+
+
+
