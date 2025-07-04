@@ -1,0 +1,15 @@
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\bin\Debug\net8.0\FirstApplication.exe
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\bin\Debug\net8.0\FirstApplication.deps.json
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\bin\Debug\net8.0\FirstApplication.runtimeconfig.json
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\bin\Debug\net8.0\FirstApplication.dll
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\bin\Debug\net8.0\FirstApplication.pdb
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.GeneratedMSBuildEditorConfig.editorconfig
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.AssemblyInfoInputs.cache
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.AssemblyInfo.cs
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.csproj.CoreCompileInputs.cache
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.sourcelink.json
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.dll
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\refint\FirstApplication.dll
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.pdb
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\FirstApplication.genruntimeconfig.cache
+\\SERVER2\faculty_drive\OwaisAhmed\Desktop\2403F1\CSharp\FirstApplication\FirstApplication\obj\Debug\net8.0\ref\FirstApplication.dll

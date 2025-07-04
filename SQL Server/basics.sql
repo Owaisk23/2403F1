@@ -258,7 +258,7 @@ use "2403F1";
  END;
 
  INSERT INTO Employee(empName,designation,salary,city,deptId) VALUES
-('Luqman ','JS developer', 34878, 'Quetta',3);
+('Aseef ','HTML developer', 978, 'Isb',4);
 
 
  -- alter
@@ -281,10 +281,11 @@ SELECT * FROM inserted;
  SELECT * into Test from Employee;
  SELECT * From Test;
 
+ DROP TRIGGER AddEmp_trigger;
  -- Maintaining logs on tables
 
   create TRIGGER AddEmp_trigger 
- On Employees
+ On Employee
  AFTER INSERT
  as
  BEGIN
@@ -298,7 +299,7 @@ INSERT INTO EmpLogs VALUES(@name+
 
  -- instead of
 
- SELECT * from Employee;
+ SELECT * from Employee where emp_status = 1;
  Alter TABLE Employee ADD emp_status int default(1) not null;
 
 
@@ -312,7 +313,7 @@ INSERT INTO EmpLogs VALUES(@name+
  Update Employee set emp_status=0 where id=@ID
  END;
 
- DELETE from Employee where id=15;
+ DELETE from Employee where id=3;
 
 
  -- Update Trigger
