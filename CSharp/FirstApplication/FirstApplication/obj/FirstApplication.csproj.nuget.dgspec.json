@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "\\\\SERVER2\\faculty_drive\\OwaisAhmed\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj": {}
+    "Z:\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj": {}
   },
   "projects": {
-    "\\\\SERVER2\\faculty_drive\\OwaisAhmed\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj": {
+    "Z:\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "\\\\SERVER2\\faculty_drive\\OwaisAhmed\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
+        "projectUniqueName": "Z:\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
         "projectName": "FirstApplication",
-        "projectPath": "\\\\SERVER2\\faculty_drive\\OwaisAhmed\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
+        "projectPath": "Z:\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\FirstApplication.csproj",
         "packagesPath": "C:\\Users\\owaisahmed\\.nuget\\packages\\",
-        "outputPath": "\\\\SERVER2\\faculty_drive\\OwaisAhmed\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\obj\\",
+        "outputPath": "Z:\\Desktop\\2403F1\\CSharp\\FirstApplication\\FirstApplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
