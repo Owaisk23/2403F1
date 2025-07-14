@@ -229,25 +229,199 @@ int a = 45; int b = 70;
 
 // ARRAY FIXED SIZED
 
-int[] temperatures = new int[5];
-//                          length
+//int[] temperatures = new int[5];
+////                          length
 
-temperatures[0] = 43;
-temperatures[1] = 40;
-temperatures[2] = 13;
-temperatures[3] = 23;
-temperatures[4] = 33;
-//temperatures[5] = 60;
-
-
-Console.WriteLine(temperatures[4]);
+//temperatures[0] = 43;
+//temperatures[1] = 40;
+//temperatures[2] = 13;
+//temperatures[3] = 23;
+//temperatures[4] = 33;
+////temperatures[5] = 60;
 
 
+//Console.WriteLine(temperatures[4]);
+
+//int[] itemPrice = { 440, 60, 120, 770, 1200, 800 };
+
+//foreach (var item in itemPrice)
+//{
+//    Console.WriteLine(item);
+//}
+
+
+//string[] countries = { "Pak", "Ind", "Afg", "Iran", "Iraq", "China", "Pak", "America" };
+
+//Array.Sort(countries);
+//Array.Reverse(countries);
 
 
 
+//foreach (var country in countries){ 
+//    Console.WriteLine(country);
+//}
+
+//Console.WriteLine(Array.IndexOf(countries, "China"));
+//Console.WriteLine(Array.LastIndexOf(countries, "Pak"));
 
 
+//Multi Dimensional Arrays
+
+//int[,] multiArr =
+//{
+//    {23, 55},
+//   //00   01
+//    {27, 25},
+//  //10   11
+//    {25, 35},
+// //  20   21
+//    {24, 45},
+//    {21, 65},
+//    {20, 75},
+//};
+
+//Console.WriteLine(multiArr[1, 1]);
+
+
+//for(int i = 0; i < multiArr.GetLength(0); i++)
+//{
+//    for(int j = 0; j < multiArr.GetLength(1); j++)
+//    {
+//        Console.WriteLine(multiArr[i, j]);
+//    }
+//}
+
+//C# unintialized variables bool = true, int = 0, str = null default values
+
+//Math.Power 
+
+//Console.WriteLine(Math.Pow(3,3));
+
+
+//Jagged Array
+//size of sub array is not fixed
+
+
+//string[][] skillSet =
+//{
+//    new string[6] {"Html", "CSS", "JS", "Bootsrap", "SEO", "UIUX"},
+//    new string[5] {"Mysql", "PHP", "PJS", "LARAVEL", "FME"},
+//    new string[3] {"SQL Server", "C#", ".Net MVC"},
+//    new string[2] {"Dart", "Flutter"}
+//};
+
+//Console.WriteLine(skillSet[3][1]);
+
+
+//for(int i = 0; i < skillSet.Length; i++)
+//{
+//    for(int j = 0; j < skillSet[i].Length; j++)
+//    {
+//        Console.WriteLine(skillSet[i][j]);
+//    }
+//}
+
+//foreach(var skills in skillSet)
+//{
+//    foreach (var skill in skills)
+//    {
+//        Console.WriteLine(skill);
+//    }
+//}
+
+
+// FUNTIONS
+
+//return type funcName() {body}
+
+
+//No return no parameter
+
+//void Greet()
+//{
+//    Console.WriteLine("Good Evening!");
+//}
+
+////calling
+
+//Greet();
+//Greet();
+//Greet();
+
+//No return with parameter        NO RETURN==void
+
+//void Greet(string name)
+//{
+//    Console.WriteLine($"Hi {name}, Good Evening!");
+//}
+
+////calling
+
+//Greet("Zunno");
+//Greet("Burney");
+//Greet("Saima");
+
+//return with no parameter
+
+//string Greet()
+//{
+//    return "Hey, Welcome to our company!";
+//}
+
+//int Add()
+//{
+//    return 32 + 45;
+//}
+
+
+//Console.WriteLine(Greet());
+//Console.WriteLine(Add());
+
+
+////return with parameter
+
+//string empDetails(string name, byte age)
+//{
+//    return ($"Emp Name: {name}. \nEmp Age: {age}");
+//}
+
+//Console.WriteLine(empDetails("Burney", 56));
+
+
+//DATA STRUCTURES
+//COLLECTIONS
+
+//Generic Collection == datatype zaroor batani he
+//LIST, STACK, QUEUE, Dictionary
+
+
+//LIST
+//Add
+
+
+List<string> Cars = new List<string>();
+
+Cars.Add("Haval");
+Cars.Add("BMW");
+Cars.Add("City");
+Cars.Add("Alto");
+Cars.Add("Cultus");
+
+
+//Console.WriteLine(Cars.Count);
+Console.WriteLine(Cars[0]);
+Console.WriteLine(Cars[4]);
+Console.WriteLine(Cars.Contains("BMW")); //T/F
+
+Cars.RemoveAt(1);
+Cars.Insert(3, "Carolla");
+
+Console.WriteLine(Cars[4]);
+
+foreach (var car in Cars)
+{
+    Console.WriteLine(car);
+}
 
 
 
