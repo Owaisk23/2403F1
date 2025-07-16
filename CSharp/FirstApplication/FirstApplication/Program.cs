@@ -397,31 +397,104 @@ int a = 45; int b = 70;
 
 //LIST
 //Add
+//Remove
+//Contains
+//AddRange
+//RemoveRange
 
 
-List<string> Cars = new List<string>();
 
-Cars.Add("Haval");
-Cars.Add("BMW");
-Cars.Add("City");
-Cars.Add("Alto");
-Cars.Add("Cultus");
+//List<string> SuperCars = new List<string>();
+
+//SuperCars.Add("Bugatti");
+//SuperCars.Add("Supra");
+//SuperCars.Add("Mazda Rx7");
+//SuperCars.Add("Ferrari");
 
 
-//Console.WriteLine(Cars.Count);
-Console.WriteLine(Cars[0]);
-Console.WriteLine(Cars[4]);
-Console.WriteLine(Cars.Contains("BMW")); //T/F
+//List<string> Cars = new List<string>();
 
-Cars.RemoveAt(1);
-Cars.Insert(3, "Carolla");
+//Cars.Add("Haval"); //0
+//Cars.Add("BMW"); //1
+//Cars.Add("City"); //2
+//Cars.Add("Alto"); //3
+//Cars.Add("Cultus"); //4
 
-Console.WriteLine(Cars[4]);
 
-foreach (var car in Cars)
+////Console.WriteLine(Cars.Count);
+////Console.WriteLine(Cars[0]);
+////Console.WriteLine(Cars[4]);
+////Console.WriteLine(Cars.Contains("BMW")); //T/F
+
+////Cars.RemoveAt(1);
+//Cars.Insert(3, "Carolla");
+
+//Cars.AddRange(SuperCars);
+//Cars.RemoveRange(1, 5); //4
+
+
+////Console.WriteLine(Cars[4]);
+
+//foreach (var car in Cars)
+//{
+//    Console.WriteLine(car);
+//}
+
+////foreach (var spcar in SuperCars)
+////{
+////    Console.WriteLine(spcar);
+////}
+
+//QUEUE (FIFO: First In First Out)
+//Enqueue == Add
+//Dequeue == Remove
+
+
+//Queue<string> stdName = new Queue<string>();
+
+//stdName.Enqueue("Burney");
+//stdName.Enqueue("Zunno");
+//stdName.Enqueue("Huzaifa");
+//stdName.Enqueue("FAtima");
+//stdName.Enqueue("Arham");
+
+
+////Remove == Dequeue
+//stdName.Dequeue(); //Burney
+//stdName.Dequeue(); //Zunno
+
+
+
+//foreach (var std in stdName)
+//{
+//    Console.WriteLine(std);
+//}
+
+//STACK (LIFO: Last In First Out)
+//Push = Add
+//Pop = Remove
+
+
+
+Stack<string> Birds = new Stack<string>();
+
+Birds.Push("Electus");
+Birds.Push("Amazon");
+Birds.Push("Finch");
+Birds.Push("Maccow");
+Birds.Push("Australian");
+Birds.Push("Love Bird Burney");
+
+
+Birds.Pop(); //Love Bird Burney
+Birds.Pop(); //Australian
+
+foreach (var bird in Birds)
 {
-    Console.WriteLine(car);
+    Console.WriteLine(bird);
 }
+
+
 
 
 
