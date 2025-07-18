@@ -1,4 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
+using System.Collections;
+
 Console.WriteLine("Hello, World!");
 Console.WriteLine("C# FIRST CLASS");
 
@@ -476,23 +478,119 @@ int a = 45; int b = 70;
 
 
 
-Stack<string> Birds = new Stack<string>();
+//Stack<string> Birds = new Stack<string>();
 
-Birds.Push("Electus");
-Birds.Push("Amazon");
-Birds.Push("Finch");
-Birds.Push("Maccow");
-Birds.Push("Australian");
-Birds.Push("Love Bird Burney");
+//Birds.Push("Electus");
+//Birds.Push("Amazon");
+//Birds.Push("Finch");
+//Birds.Push("Maccow");
+//Birds.Push("Australian");
+//Birds.Push("Love Bird Burney");
 
 
-Birds.Pop(); //Love Bird Burney
-Birds.Pop(); //Australian
+//Birds.Pop(); //Love Bird Burney
+//Birds.Pop(); //Australian
 
-foreach (var bird in Birds)
-{
-    Console.WriteLine(bird);
-}
+//foreach (var bird in Birds)
+//{
+//    Console.WriteLine(bird);
+//}
+
+//Dictionary(Generic Collection) (key: value)
+//add, remove
+
+//Dictionary<string, string> employeeDetails = new Dictionary<string, string>();
+
+//employeeDetails.Add("empName", "Ashar");
+//employeeDetails.Add("empDesig", "React Developer");
+//employeeDetails.Add("empAddress", "North Khi");
+//employeeDetails.Add("empImg", "ashar.jpg");
+//employeeDetails.Add("empEmail", "ashar@gmail.com");
+//employeeDetails.Add("empPass", "KuyTasdbv1");
+////employeeDetails.Add("empSalary", 698745);
+////employeeDetails.Add("empIsValid", true);
+
+//Dictionary<string, int> stdMarks = new Dictionary<string, int>();
+
+//stdMarks.Add("Urdu", 70);
+//stdMarks.Add("Maths", 90);
+//stdMarks.Add("Physics", 87);
+
+
+//Console.WriteLine(employeeDetails["empName"]);
+
+//For Each Loop
+//foreach(var item in employeeDetails)
+//{
+//    string[] test = (item.ToString()).Split(',');
+//    //string key = test[0];
+//    //string value = test[1];
+//    string key = test[0].Trim('['); //[
+//    string value = test[1].Trim(']'); //]
+//    //Console.WriteLine(key);
+//    //Console.WriteLine(value);
+//    //Console.WriteLine(item);
+
+//    Console.WriteLine($"The employee has key propety:{key} and value property is:{value}");
+//    //Console.WriteLine(test[0]);
+//}
+
+
+//HashTables
+
+//Hashtable students = new Hashtable();
+//students.Add("stdname", "Abdullah");
+//students.Add("stdMarks", 98);
+//students.Add("stdExamStatus", true);
+//students.Add("stdImg", "abdullah.jpg");
+
+
+////Console.WriteLine(students["stdname"]);
+////students.Contains("stdMarks");
+////students.ContainsValue(98);
+
+//foreach(DictionaryEntry item in students)
+//{
+//    Console.WriteLine(item.Key + " : " + item.Value);
+//}
+
+//Console.WriteLine(students.GetHashCode());
+
+//ArrayList (None-Generic Collection & No fix datatype)
+
+//ArrayList Cars = new ArrayList();
+//Cars.Add("Revo");
+//Cars.Add("Camery");
+//Cars.Add("Civic");
+//Cars.Add("Elantra");
+//Cars.Add("Mehran");
+//Cars.Add(24007);
+//Cars.Add(.70f);
+
+////Console.WriteLine(Cars.Count);
+//Console.WriteLine(Cars.Contains("Mehran"));
+////Cars.RemoveAt(3);
+////Cars.Remove("Revo");
+//Cars.RemoveRange(5, 2);
+
+
+
+//foreach(var car in Cars)
+//{
+//    Console.WriteLine(car);
+//}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
