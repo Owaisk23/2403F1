@@ -642,8 +642,8 @@ int stdage = 75;
 //Aeroplane f16 = new Aeroplane("PAF");
 //f16.takeOff();
 
-//Aeroplane f17 = new Aeroplane("PAF", "F-17 Thunder", 2, 2, "8500hp");
-//f17.takeOff();
+Aeroplane f17 = new Aeroplane("PAF", "F-17 Thunder", 2, 2, "8500hp");
+f17.takeOff();
 //f17.land();
 
 //class ClassNamae{
@@ -659,6 +659,7 @@ int stdage = 75;
 
 public class Aeroplane
 {
+    //access modifiers: public: access from anywhere, private: access within the class, protected: access within the class + child classes
     public string? AirLine;
     public string? Name;
     public int Seats;
@@ -705,7 +706,66 @@ public class Aeroplane
 
 }
 
+//2. Polymorphism
+// Method Overloading
+// Method Overriding
+//3. Abstraction
+//4. Encapsulation
 
+//Inheritance
+//Vehicle abc = new Vehicle("AAZ-789", "Metallic grey");
+//abc.Run();
+
+//using System.Collections;
+//using System.Linq;
+
+//Car mercedez = new Car("TZ-8908", "Black", "Mercedez", "Benz C-Class", 20000000);
+//mercedez.Run();
+//mercedez.Run(500);
+
+//// Parent class | Base Class | Super Class
+public class Vehicle
+{
+    public string regNo;
+    public string color;
+
+    public Vehicle(string regno, string color)
+    {
+        this.regNo = regno;
+        this.color = color;
+    }
+    public void Run()
+    {
+        Console.WriteLine($"{this.regNo} vehicle started running");
+    }
+}
+//// Child class | Derived Class | Sub Class
+public class Car : Vehicle
+{
+
+    public string brand;
+    public string model;
+    public int price;
+
+    public Car(string regno, string color, string brand, string model, int price) : base(regno, color)
+    {
+        this.brand = brand;
+        this.model = model;
+        this.price = price;
+    }
+
+    //method overriding
+    public void Run()
+    {
+        Console.WriteLine($"{this.brand} {this.model} {this.regNo} started running");
+    }
+    //method overloading
+    public void Run(int speed)
+    {
+        Console.WriteLine($"{this.brand} {this.model} {this.regNo} started running at {speed} MPH.");
+    }
+
+}
 
 
 
