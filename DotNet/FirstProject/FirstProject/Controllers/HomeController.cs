@@ -13,13 +13,47 @@ namespace FirstProject.Controllers
             _logger = logger;
         }
 
+        //public IActionResult Index()
+        //{
+        //    TempData["address"] = "North Nazimabad";
+        //    TempData.Keep();
+        //    return View();
+        //}
+
+        [HttpGet]
         public IActionResult Index()
         {
+            return View();
+        }
+        [HttpPost]
+        public IActionResult Index(string email, string pwd)
+        {
+            if(email == "admin@gmail.com" && pwd == "aptech")
+            {
+                TempData["email"] = "Hello" + email;
+                TempData.Keep();
+                return RedirectToAction("Privacy");
+            }
+
+
+            return View();
+        }
+
+
+        public IActionResult About()
+        {
+            TempData.Keep();
+
+            ViewBag.fname = "Owais Ahmed";
+            ViewData["email"] = "owais@gmail.com";
+            ViewData["city"] = "Karachi";
+
             return View();
         }
 
         public IActionResult Privacy()
         {
+            TempData.Keep();
             return View();
         }
 
