@@ -17,16 +17,55 @@ namespace CRUD.Controllers
         {
             return View(db.Items.ToList());
         }
-
-        public IActionResult Privacy()
+        [HttpGet]
+        public IActionResult AddProduct()
         {
             return View();
         }
-
-        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error()
+        [HttpPost]
+        public IActionResult AddProduct(Item item)
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            db.Items.Add(item);
+            db.SaveChanges();
+            return RedirectToAction("Index");
         }
+
+        [HttpGet]
+        public IActionResult EditProduct(int id)
+        {
+            var product = db.Items.FirstOrDefault(x => x.Id == id);
+            return View(product);
+        }
+        
+        [HttpPost]
+        public IActionResult EditProduct(Item item)
+        {
+            db.Items.Update(item);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        } 
+        
+        [HttpGet]
+        public IActionResult DeleteProduct(int id)
+        {
+            var product = db.Items.FirstOrDefault(x => x.Id == id);
+            return View(product);
+        }
+        
+        [HttpPost]
+        public IActionResult DeleteProduct(Item item)
+        {
+            db.Items.Remove(item);
+            db.SaveChanges();
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult DetailProduct(int id)
+        {
+            var product = db.Items.FirstOrDefault(x => x.Id == id);
+            return View(product);
+        }
+
+
     }
 }

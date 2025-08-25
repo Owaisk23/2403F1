@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\detailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\detailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,12 +42,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DetailProduct.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DetailProduct.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\DetailProduct.cshtml",
-              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DetailProduct.cshtml",
-              "RelativeToolTip": "CRUD\\Views\\Home\\DetailProduct.cshtml",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DetailProduct.cshtml*",
+              "RelativeToolTip": "CRUD\\Views\\Home\\DetailProduct.cshtml*",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T13:18:55.329Z",
@@ -81,12 +81,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\Index.cshtml",
-              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "CRUD\\Views\\Home\\Index.cshtml*",
               "ViewState": "AgIAABkAAAAAAAAAAAAwwCgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T12:53:24.121Z",
@@ -107,13 +107,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CRUD\\Controllers\\HomeController.cs",
               "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CRUD\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAcwDQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAmwD4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T12:49:34.196Z",
               "EditorCaption": ""
