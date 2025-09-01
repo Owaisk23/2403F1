@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\detailproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +17,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/./item/sa/SqlTable/dbo.Category.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F1F82A9-0B5A-436A-A39E-F84E768F2B4F}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\dotnet\\crud\\crud\\views\\home\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,7 +41,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +49,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.Category [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/./item/sa/SqlTable/dbo.Category.sql",
+              "ToolTip": "dbo.Category [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-09-01T13:38:19.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Home\\Create.cshtml",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Home\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:14:15.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DetailProduct.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DetailProduct.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\DetailProduct.cshtml",
-              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DetailProduct.cshtml*",
-              "RelativeToolTip": "CRUD\\Views\\Home\\DetailProduct.cshtml*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DetailProduct.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Home\\DetailProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T13:18:55.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "DeleteProduct.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\DeleteProduct.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\DeleteProduct.cshtml",
@@ -68,33 +98,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "EditProduct.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\EditProduct.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\EditProduct.cshtml",
               "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\EditProduct.cshtml",
               "RelativeToolTip": "CRUD\\Views\\Home\\EditProduct.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T13:06:53.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\Index.cshtml",
-              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Index.cshtml*",
-              "RelativeToolTip": "CRUD\\Views\\Home\\Index.cshtml*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwCgAAAAsAAAAAAAAAA==",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAABoAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-25T12:53:24.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AddProduct.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Views\\Home\\AddProduct.cshtml",
               "RelativeDocumentMoniker": "CRUD\\Views\\Home\\AddProduct.cshtml",
@@ -107,13 +137,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "CRUD\\Controllers\\HomeController.cs",
               "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CRUD\\CRUD\\Controllers\\HomeController.cs",
               "RelativeToolTip": "CRUD\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAmwD4AAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-25T12:49:34.196Z",
               "EditorCaption": ""
