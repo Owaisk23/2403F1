@@ -18,18 +18,18 @@ namespace CRUD.Controllers
         {
             return View(db.Items.ToList());
         }
-        [HttpGet]
-        public IActionResult AddProduct()
-        {
-            return View();
-        }
-        [HttpPost]
-        public IActionResult AddProduct(Item item)
-        {
-            db.Items.Add(item);
-            db.SaveChanges();
-            return RedirectToAction("Index");
-        }
+        //[HttpGet]
+        //public IActionResult AddProduct()
+        //{
+        //    return View();
+        //}
+        //[HttpPost]
+        //public IActionResult AddProduct(Item item)
+        //{
+        //    db.Items.Add(item);
+        //    db.SaveChanges();
+        //    return RedirectToAction("Index");
+        //}
 
         public IActionResult Create()
         {
@@ -43,7 +43,7 @@ namespace CRUD.Controllers
         [ValidateAntiForgeryToken]
         public IActionResult Create(Item item, IFormFile file)
         {
-            var imageName = DateTime.Now.ToString("yymmddhhmmss");//24074455454454
+            var imageName = DateTime.Now.ToString("yymmddhhmmss");//25070855454454
             imageName += Path.GetFileName(file.FileName);//24074455454454apple.png
 
             string imagepath = Path.Combine(HttpContext.Request.PathBase.Value, "wwwroot/Uploads");
