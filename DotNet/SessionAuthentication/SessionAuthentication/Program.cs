@@ -5,15 +5,15 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
-builder.Services.AddDbContext<AuthuserContext>();
-builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
-          op =>
-          {
-              op.LoginPath = "/Auth/Login";
-              op.AccessDeniedPath = "/Auth/Login";
-              op.ExpireTimeSpan = TimeSpan.FromMinutes(60);
-          }
-        );
+//builder.Services.AddDbContext<AuthuserContext>();
+//builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(
+//          op =>
+//          {
+//              op.LoginPath = "/Auth/Login";
+//              op.AccessDeniedPath = "/Auth/Login";
+//              op.ExpireTimeSpan = TimeSpan.FromMinutes(60);
+//          }
+//        );
 
 builder.Services.AddDistributedMemoryCache();
 

@@ -13,7 +13,7 @@ namespace SessionAuthentication.Controllers
         {
             _logger = logger;
         }
-        [Authorize(Roles = "User")]
+        //[Authorize(Roles = "User")]
         public IActionResult Index()
         {
             return View();
