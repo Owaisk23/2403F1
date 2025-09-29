@@ -1,0 +1,2401 @@
+{
+  "Files": [
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\TempEmbedding.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TempEmbedding.bundle.scp.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.eot"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.ttf"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\icons\\tabler-icons\\fonts\\tabler-icons.woff2"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\icons\\tabler-icons\\tabler-icons.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\icons\\tabler-icons\\tabler-icons.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\styles.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\styles.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\css\\styles.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\css\\styles.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\backgrounds\\sidebar-buynow.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\backgrounds\\sidebar-buynow.png"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\logos\\favicon.png",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\logos\\favicon.png"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\logos\\logo-wrappixel.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\logos\\logo-wrappixel.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\logos\\logo.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\logos\\logo.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\products\\s1.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\products\\s1.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\products\\s2.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\products\\s2.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\products\\s3.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\products\\s3.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\products\\s4.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\products\\s4.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\products\\s5.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\products\\s5.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-1.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-1.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-2.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-2.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-3.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-3.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-4.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-4.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-5.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-5.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-6.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-6.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-7.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-7.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\images\\profile\\user-8.jpg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\images\\profile\\user-8.jpg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\app.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\dashboard.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\js\\sidebarmenu.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\js\\sidebarmenu.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\LICENSE",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\README.md",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\README.md"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.amd.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.common.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.esm.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\apexcharts.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ar.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\be-cyrl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\be-cyrl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\be-latn.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\be-latn.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ca.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\cs.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\da.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\da.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\de.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\de.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\el.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\el.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\en.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\en.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\es.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\es.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\et.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\et.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\fa.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\fi.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\fr.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\he.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\he.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hi.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hr.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hu.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\hy.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\id.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\id.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\it.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\it.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ja.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ka.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ko.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\lt.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\lv.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ms.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ms.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\nb.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\nl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\pl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\pt-br.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\pt.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\rs.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ru.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\se.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\se.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\sk.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\sl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\sq.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\th.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\th.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\tr.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\ua.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\vi.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\vi.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\dist\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\package.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\package.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\apexcharts.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\apexcharts.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\apexcharts.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\apexcharts.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-camera.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-camera.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-home.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-home.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-menu.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-menu.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-minus-square.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-minus-square.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-minus.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-minus.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-pan-hand.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-pan-hand.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-pan.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-pan.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-plus-square.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-plus-square.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-plus.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-plus.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-refresh.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-refresh.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-reset.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-reset.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-select.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-select.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-select1.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-select1.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-zoom-in.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-zoom-in.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-zoom-out.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-zoom-out.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-zoom.svg",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\assets\\ico-zoom.svg"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Bar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Bar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\BarStacked.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\BarStacked.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\BoxCandleStick.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\HeatMap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\HeatMap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Line.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Line.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Pie.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Pie.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Radar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Radar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Radial.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Radial.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\RangeBar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\RangeBar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Scatter.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Scatter.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Treemap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\Treemap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\DataLabels.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\bar\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\circle\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\line\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\charts\\common\\treemap\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\libs\\Treemap-squared.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\libs\\Treemap-squared.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\libs\\monotone-cubic.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\libs\\monotone-cubic.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ar.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\be-cyrl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\be-cyrl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\be-latn.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\be-latn.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ca.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\cs.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\da.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\da.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\de.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\de.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\el.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\el.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\en.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\en.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\es.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\es.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\et.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\et.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\fa.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\fi.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\fr.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\he.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\he.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hi.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hr.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hu.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\hy.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\id.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\id.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\it.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\it.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ja.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ka.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ko.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\lt.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\lv.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ms.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ms.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\nb.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\nl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\pl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\pt-br.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\pt.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\rs.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ru.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\se.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\se.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\sk.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\sl.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\sq.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\th.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\th.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\tr.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\ua.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\vi.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\vi.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Animations.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Animations.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Base.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Base.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Core.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Core.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\CoreUtils.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\CoreUtils.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Crosshairs.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Crosshairs.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Data.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Data.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\DataLabels.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\DataLabels.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Events.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Events.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Exports.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Exports.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Fill.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Fill.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Filters.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Filters.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Formatters.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Formatters.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Graphics.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Graphics.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Markers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Markers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Range.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Range.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Responsive.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Responsive.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Scales.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Scales.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Series.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Series.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Theme.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Theme.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\TimeScale.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\TimeScale.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\TitleSubtitle.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Toolbar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\Toolbar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\ZoomPanSelection.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Annotations.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\PointsAnnotations.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\XAxisAnnotations.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\annotations\\YAxisAnnotations.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\Axes.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\Axes.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\AxesUtils.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\Grid.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\Grid.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\XAxis.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\axes\\YAxis.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Dimensions.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Grid.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\XAxis.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\dimensions\\YAxis.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Destroy.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\InitCtxVariables.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\Localization.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\helpers\\UpdateHelpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\legend\\Helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\legend\\Legend.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\legend\\Legend.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Config.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Config.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Defaults.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Globals.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Globals.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Options.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\settings\\Options.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\AxesTooltip.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Intersect.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Labels.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Marker.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Position.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\README.md",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\README.md"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Tooltip.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\modules\\tooltip\\Utils.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\svgjs\\svg.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\svgjs\\svg.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\utils\\DateTime.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\utils\\DateTime.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\utils\\Resize.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\utils\\Resize.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\src\\utils\\Utils.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\src\\utils\\Utils.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\apexcharts\\types\\apexcharts.d.ts",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\apexcharts\\types\\apexcharts.d.ts"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\README.md"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\alert.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\alert.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\alert.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\alert.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\base-component.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\base-component.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\base-component.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\base-component.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\button.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\button.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\button.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\button.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\carousel.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\carousel.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\carousel.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\carousel.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\collapse.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\collapse.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\collapse.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\collapse.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\data.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\event-handler.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\manipulator.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dom\\selector-engine.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\dropdown.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\modal.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\modal.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\modal.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\modal.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\offcanvas.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\popover.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\popover.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\popover.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\popover.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\scrollspy.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tab.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tab.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tab.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tab.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\toast.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\toast.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\toast.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\toast.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\tooltip.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\backdrop.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\component-functions.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\config.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\focustrap.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\index.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\sanitizer.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\scrollbar.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\swipe.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\dist\\util\\template-factory.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\index.esm.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\index.esm.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\index.umd.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\index.umd.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\alert.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\alert.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\base-component.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\base-component.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\button.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\button.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\carousel.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\carousel.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\collapse.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\collapse.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\data.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\data.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\event-handler.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\event-handler.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\manipulator.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\manipulator.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dom\\selector-engine.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dropdown.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\dropdown.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\modal.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\modal.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\offcanvas.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\offcanvas.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\popover.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\popover.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\scrollspy.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\scrollspy.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\tab.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\tab.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\toast.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\toast.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\tooltip.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\tooltip.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\backdrop.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\backdrop.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\component-functions.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\component-functions.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\config.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\config.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\focustrap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\focustrap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\index.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\index.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\sanitizer.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\sanitizer.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\scrollbar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\scrollbar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\swipe.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\swipe.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\template-factory.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\js\\src\\util\\template-factory.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\package.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_maps.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_maps.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_placeholders.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_placeholders.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_variables-dark.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_color-bg.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_focus-ring.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_icon-link.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_stacks.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_vr.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\helpers\\_vr.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_backdrop.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_banner.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_banner.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_color-mode.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\AUTHORS.txt"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\README.md",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\README.md"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\bower.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\bower.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\package.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\package.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\jsonp.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\jsonp.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\load.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\load.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\script.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\script.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\var\\location.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\var\\location.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\var\\nonce.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\var\\nonce.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\var\\rquery.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\var\\rquery.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\xhr.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\ajax\\xhr.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\attributes.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\attributes.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\attr.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\attr.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\classes.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\classes.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\prop.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\prop.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\support.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\support.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\val.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\attributes\\val.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\callbacks.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\callbacks.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\DOMEval.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\DOMEval.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\access.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\access.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\camelCase.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\camelCase.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\init.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\init.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\isAttached.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\isAttached.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\nodeName.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\nodeName.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\parseHTML.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\parseHTML.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\parseXML.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\parseXML.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\ready-no-deferred.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\ready-no-deferred.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\ready.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\ready.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\readyException.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\readyException.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\stripAndCollapse.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\stripAndCollapse.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\support.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\support.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\toType.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\toType.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\var\\rhtml.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\var\\rhtml.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\core\\var\\rsingleTag.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\core\\var\\rsingleTag.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\addGetHookIf.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\addGetHookIf.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\adjustCSS.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\adjustCSS.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\curCSS.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\curCSS.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\finalPropName.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\finalPropName.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\hiddenVisibleSelectors.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\hiddenVisibleSelectors.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\showHide.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\showHide.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\support.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\support.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\cssExpand.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\cssExpand.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\getStyles.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\getStyles.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\isHiddenWithinTree.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\isHiddenWithinTree.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\rboxStyle.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\rboxStyle.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\rcustomProp.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\rcustomProp.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\rnumnonpx.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\rnumnonpx.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\swap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\css\\var\\swap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\data.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\data.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\data\\Data.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\data\\Data.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\data\\var\\acceptData.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\data\\var\\acceptData.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\data\\var\\dataPriv.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\data\\var\\dataPriv.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\data\\var\\dataUser.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\data\\var\\dataUser.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\deferred.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\deferred.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\deferred\\exceptionHook.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\deferred\\exceptionHook.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\deprecated.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\deprecated.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\deprecated\\ajax-event-alias.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\deprecated\\ajax-event-alias.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\deprecated\\event.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\deprecated\\event.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\dimensions.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\dimensions.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\effects.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\effects.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\effects\\Tween.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\effects\\Tween.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\effects\\animatedSelector.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\effects\\animatedSelector.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\event.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\event.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\event\\trigger.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\event\\trigger.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\exports\\amd.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\exports\\amd.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\exports\\global.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\exports\\global.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\jquery.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\jquery.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\_evalUrl.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\_evalUrl.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\buildFragment.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\buildFragment.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\getAll.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\getAll.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\setGlobalEval.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\setGlobalEval.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\support.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\support.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\var\\rscriptType.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\var\\rscriptType.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\var\\rtagName.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\var\\rtagName.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\wrapMap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\manipulation\\wrapMap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\offset.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\offset.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\queue.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\queue.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\queue\\delay.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\queue\\delay.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\selector-native.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\selector-native.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\selector.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\selector.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\selector\\contains.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\selector\\contains.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\selector\\escapeSelector.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\selector\\escapeSelector.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\serialize.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\serialize.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\traversing.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\traversing.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\findFilter.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\findFilter.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\var\\dir.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\var\\dir.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\var\\rneedsContext.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\var\\rneedsContext.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\var\\siblings.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\traversing\\var\\siblings.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\ObjectFunctionString.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\ObjectFunctionString.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\arr.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\arr.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\class2type.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\class2type.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\document.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\document.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\documentElement.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\documentElement.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\flat.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\flat.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\fnToString.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\fnToString.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\getProto.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\getProto.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\hasOwn.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\hasOwn.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\indexOf.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\indexOf.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\isFunction.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\isFunction.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\isWindow.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\isWindow.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\pnum.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\pnum.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\pop.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\pop.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\push.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\push.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\rcheckableType.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\rcheckableType.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\rcssNum.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\rcssNum.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\rnothtmlwhite.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\rnothtmlwhite.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\rtrimCSS.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\rtrimCSS.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\slice.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\slice.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\sort.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\sort.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\splice.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\splice.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\support.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\support.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\toString.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\toString.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\var\\whitespace.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\var\\whitespace.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\jquery\\src\\wrap.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\jquery\\src\\wrap.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\LICENSE",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\README.md",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\README.md"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar-core.esm.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.d.ts",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.d.ts"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.esm.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.esm.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.esm.js.map",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.esm.js.map"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.min.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.min.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.min.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.umd.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\dist\\simplebar.umd.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\package.json",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\package.json"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\src\\helpers.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\src\\helpers.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\src\\index.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\src\\index.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\src\\scrollbar-width.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\src\\scrollbar-width.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\src\\simplebar.css",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\src\\simplebar.css"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\libs\\simplebar\\src\\simplebar.js",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\libs\\simplebar\\src\\simplebar.js"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\component\\_card.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\component\\_card.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\component\\_reboot.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\component\\_reboot.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\layouts\\_header.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\layouts\\_header.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\layouts\\_layouts.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\layouts\\_layouts.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\layouts\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\layouts\\_sidebar.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\pages\\_dashboard1.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\pages\\_dashboard1.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\styles.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\styles.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\utilities\\_icon-size.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\utilities\\_icon-size.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\variables\\_theme-variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\variables\\_theme-variables.scss"
+    },
+    {
+      "Id": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\wwwroot\\adminpanel\\assets\\scss\\variables\\_variables.scss",
+      "PackagePath": "staticwebassets\\adminpanel\\assets\\scss\\variables\\_variables.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TempEmbedding.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TempEmbedding.props",
+      "PackagePath": "build\\TempEmbedding.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TempEmbedding.props",
+      "PackagePath": "buildMultiTargeting\\TempEmbedding.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TempEmbedding.props",
+      "PackagePath": "buildTransitive\\TempEmbedding.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
