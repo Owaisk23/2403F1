@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\models\\authusercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|solutionrelative:sessionauthentication\\controllers\\clientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B70EBDF-2FBD-4B62-A363-EADA1EB01E02}|SessionAuthentication\\SessionAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\sessionauthentication\\sessionauthentication\\views\\admin\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Program.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Program.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Signup.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Views\\Auth\\Signup.cshtml",
               "RelativeDocumentMoniker": "SessionAuthentication\\Views\\Auth\\Signup.cshtml",
@@ -115,12 +115,11 @@
               "RelativeToolTip": "SessionAuthentication\\Views\\Auth\\Signup.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T12:59:45.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T12:59:45.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Login.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Views\\Auth\\Login.cshtml",
               "RelativeDocumentMoniker": "SessionAuthentication\\Views\\Auth\\Login.cshtml",
@@ -128,8 +127,7 @@
               "RelativeToolTip": "SessionAuthentication\\Views\\Auth\\Login.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-08T12:59:38.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T12:59:38.369Z"
             },
             {
               "$type": "Document",
@@ -157,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AuthuserContext.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Models\\AuthuserContext.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Models\\AuthuserContext.cs",
@@ -165,12 +163,11 @@
               "RelativeToolTip": "SessionAuthentication\\Models\\AuthuserContext.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:59:06.206Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T12:59:06.206Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Models\\User.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Models\\User.cs",
@@ -178,12 +175,11 @@
               "RelativeToolTip": "SessionAuthentication\\Models\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T12:58:55.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T12:58:55.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "ClientController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Controllers\\ClientController.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Controllers\\ClientController.cs",
@@ -196,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Controllers\\HomeController.cs",
@@ -209,26 +205,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AdminController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Controllers\\AdminController.cs",
               "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Controllers\\AdminController.cs",
               "RelativeToolTip": "SessionAuthentication\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:55:55.527Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AuthController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "SessionAuthentication\\Controllers\\AuthController.cs",
               "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\SessionAuthentication\\SessionAuthentication\\Controllers\\AuthController.cs",
               "RelativeToolTip": "SessionAuthentication\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAYwIkAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAIkAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-08T12:55:48.437Z",
               "EditorCaption": ""
