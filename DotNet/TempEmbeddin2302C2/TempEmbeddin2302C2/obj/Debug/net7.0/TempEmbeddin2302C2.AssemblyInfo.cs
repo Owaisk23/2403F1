@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TempEmbeddin2302C2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ee732741cac936463cdb56a6042f36bcac188340")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51eb1bb69b28a600654b8355b53fac1abebe6058")]
 [assembly: System.Reflection.AssemblyProductAttribute("TempEmbeddin2302C2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TempEmbeddin2302C2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

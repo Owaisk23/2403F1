@@ -1,12 +1,75 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\owaisahmed\\source\\repos\\CookieAuthentication\\",
-  "Documents": [],
+  "WorkspaceRootPath": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DC633D1F-CD6A-4DDA-8B3A-D8B6949C969D}|CookieAuthentication\\CookieAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\cookieauthentication\\cookieauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC633D1F-CD6A-4DDA-8B3A-D8B6949C969D}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC633D1F-CD6A-4DDA-8B3A-D8B6949C969D}|CookieAuthentication\\CookieAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\cookieauthentication\\cookieauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC633D1F-CD6A-4DDA-8B3A-D8B6949C969D}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC633D1F-CD6A-4DDA-8B3A-D8B6949C969D}|CookieAuthentication\\CookieAuthentication.csproj|z:\\desktop\\2403f1\\dotnet\\cookieauthentication\\cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC633D1F-CD6A-4DDA-8B3A-D8B6949C969D}|CookieAuthentication\\CookieAuthentication.csproj|solutionrelative:cookieauthentication\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\CookieAuthentication\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\HomeController.cs",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\CookieAuthentication\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CookieAuthentication\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:16:18.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\CookieAuthentication\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\AdminController.cs",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\CookieAuthentication\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "CookieAuthentication\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T09:15:09.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\CookieAuthentication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CookieAuthentication\\Controllers\\AuthController.cs",
+              "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\CookieAuthentication\\CookieAuthentication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CookieAuthentication\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T13:40:56.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

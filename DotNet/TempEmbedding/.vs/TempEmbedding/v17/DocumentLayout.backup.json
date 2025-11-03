@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|z:\\desktop\\2403f1\\dotnet\\tempembedding\\tempembedding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|solutionrelative:tempembedding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|z:\\desktop\\2403f1\\dotnet\\tempembedding\\tempembedding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|solutionrelative:tempembedding\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|z:\\desktop\\2403f1\\dotnet\\tempembedding\\tempembedding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|solutionrelative:tempembedding\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C2ADCEC8-3D80-4FE7-8318-BBDFC0A3158D}|TempEmbedding\\TempEmbedding.csproj|z:\\desktop\\2403f1\\dotnet\\tempembedding\\tempembedding\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TempEmbedding\\Views\\Home\\Index.cshtml",
@@ -42,7 +42,8 @@
               "RelativeToolTip": "TempEmbedding\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAOkBAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-22T13:55:08.746Z"
+              "WhenOpened": "2025-09-22T13:55:08.746Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -70,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TempEmbedding\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "Z:\\Desktop\\2403F1\\DotNet\\TempEmbedding\\TempEmbedding\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "TempEmbedding\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAD8BAAAAAAAAAAAAwEMBAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAAwEMBAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-22T13:34:55.507Z",
               "EditorCaption": ""
