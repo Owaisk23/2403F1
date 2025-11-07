@@ -58,6 +58,64 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "FirstProject.Controllers.MyController",
+    "Method": "UpdateBike",
+    "RelativePath": "api/My/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateBike",
+        "Type": "FirstProject.Models.Bike",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstProject.Controllers.MyController",
+    "Method": "Pagination",
+    "RelativePath": "api/My/Pagination/{pageNo}/{pageSize}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNo",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "FirstProject.Controllers.MyController",
+    "Method": "SearchProduct",
+    "RelativePath": "api/My/Search/{query}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "FirstProject.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
