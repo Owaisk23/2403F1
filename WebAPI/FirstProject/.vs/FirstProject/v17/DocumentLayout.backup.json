@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "Z:\\Desktop\\2403F1\\WebAPI\\FirstProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4CFFD896-CB3C-4024-9924-613DA58CFB4C}|FirstProject\\FirstProject.csproj|z:\\desktop\\2403f1\\webapi\\firstproject\\firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CFFD896-CB3C-4024-9924-613DA58CFB4C}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4CFFD896-CB3C-4024-9924-613DA58CFB4C}|FirstProject\\FirstProject.csproj|z:\\desktop\\2403f1\\webapi\\firstproject\\firstproject\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4CFFD896-CB3C-4024-9924-613DA58CFB4C}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\Desktop\\2403F1\\WebAPI\\FirstProject\\FirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Program.cs",
+              "ToolTip": "Z:\\Desktop\\2403F1\\WebAPI\\FirstProject\\FirstProject\\Program.cs*",
+              "RelativeToolTip": "FirstProject\\Program.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwAoAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T13:24:33.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MyController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\WebAPI\\FirstProject\\FirstProject\\Controllers\\MyController.cs",
               "RelativeDocumentMoniker": "FirstProject\\Controllers\\MyController.cs",
@@ -34,12 +51,11 @@
               "RelativeToolTip": "FirstProject\\Controllers\\MyController.cs",
               "ViewState": "AgIAAEIAAAAAAAAAAAAuwEwAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T12:50:11.263Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-05T12:50:11.263Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\WebAPI\\FirstProject\\FirstProject\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "FirstProject\\Controllers\\WeatherForecastController.cs",
