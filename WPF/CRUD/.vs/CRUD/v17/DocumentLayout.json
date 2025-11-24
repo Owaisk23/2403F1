@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "Z:\\Desktop\\2403F1\\WPF\\CRUD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{131D4DF6-85BA-4DA4-9D56-5EC97022E267}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\wpf\\crud\\crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{131D4DF6-85BA-4DA4-9D56-5EC97022E267}|CRUD\\CRUD.csproj|solutionrelative:crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{131D4DF6-85BA-4DA4-9D56-5EC97022E267}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\wpf\\crud\\crud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{131D4DF6-85BA-4DA4-9D56-5EC97022E267}|CRUD\\CRUD.csproj|solutionrelative:crud\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{131D4DF6-85BA-4DA4-9D56-5EC97022E267}|CRUD\\CRUD.csproj|z:\\desktop\\2403f1\\wpf\\crud\\crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{131D4DF6-85BA-4DA4-9D56-5EC97022E267}|CRUD\\CRUD.csproj|solutionrelative:crud\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +26,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\WPF\\CRUD\\CRUD\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CRUD\\MainWindow.xaml",
@@ -38,15 +38,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "Z:\\Desktop\\2403F1\\WPF\\CRUD\\CRUD\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "CRUD\\MainWindow.xaml.cs",
               "ToolTip": "Z:\\Desktop\\2403F1\\WPF\\CRUD\\CRUD\\MainWindow.xaml.cs",
               "RelativeToolTip": "CRUD\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAAwJUAAABiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-17T13:21:16.314Z"
+              "WhenOpened": "2025-11-17T13:21:16.314Z",
+              "EditorCaption": ""
             }
           ]
         }

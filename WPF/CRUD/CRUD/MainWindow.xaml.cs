@@ -147,7 +147,7 @@ namespace CRUD
             {
                 if (isValid())
                 {
-                    SqlCommand updProd = new SqlCommand("Update products set pname=@pname, desc=@desc, price=@price,qty=@qty, cat=@cat Where Id=@pid", Conn);
+                    SqlCommand updProd = new SqlCommand("Update products set pname=@pname, [desc]=@desc, price=@price,qty=@qty, cat=@cat Where Id=@pid", Conn);
                     updProd.CommandType = CommandType.Text;
 
                     updProd.Parameters.AddWithValue("@pname", pname.Text);
