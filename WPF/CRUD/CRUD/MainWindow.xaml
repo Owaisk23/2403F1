@@ -6,23 +6,27 @@
         xmlns:local="clr-namespace:CRUD"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
-    <Grid Margin="0,0,-21,-6">
-        <Grid.ColumnDefinitions>
-            <ColumnDefinition Width="7*"/>
-            <ColumnDefinition Width="33*"/>
-        </Grid.ColumnDefinitions>
-        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="21" Margin="32,61,0,0" TextWrapping="Wrap" Text="Product Name   " VerticalAlignment="Top" Width="165"/>
-        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="21" Margin="32,96,0,0" TextWrapping="Wrap" Text="Product Description" VerticalAlignment="Top" Width="165"/>
-        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="21" Margin="32,132,0,0" TextWrapping="Wrap" Text="Product Quantity" VerticalAlignment="Top" Width="165"/>
-        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="21" Margin="32,168,0,0" TextWrapping="Wrap" Text="Product Price" VerticalAlignment="Top" Width="165"/>
-        <Button Content="Add Product" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="31" Margin="72,220,0,0" VerticalAlignment="Top" Width="98"/>
-        <TextBlock Grid.Column="1" Background="LightCoral" HorizontalAlignment="Left" Height="36" Margin="173,23,0,0" TextWrapping="Wrap" Text="IMTIAZ SUPER STORE" VerticalAlignment="Top" Width="302" TextDecorations="Underline" FontWeight="Bold" FontSize="28"/>
-        <DataGrid Grid.Column="1" HorizontalAlignment="Left" Height="154" Margin="122,82,0,0" VerticalAlignment="Top" Width="458" d:ItemsSource="{d:SampleData ItemCount=5}"/>
-        <TextBox Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="21" Margin="32,168,0,0" TextWrapping="Wrap" Text="Product Price" VerticalAlignment="Top" Width="165"/>
-        <TextBox HorizontalAlignment="Left" Height="21" Margin="122,260,0,0" TextWrapping="Wrap" Text="Product ID" VerticalAlignment="Top" Width="165" Grid.Column="1"/>
-        <Button Content="Add Product" HorizontalAlignment="Left" Height="21" Margin="302,260,0,0" VerticalAlignment="Top" Width="98" Grid.Column="1"/>
-        <Button Content="Edit Product" HorizontalAlignment="Left" Height="21" Margin="302,260,0,0" VerticalAlignment="Top" Width="98" Grid.Column="1"/>
-        <Button Content="Delete Product" HorizontalAlignment="Left" Height="21" Margin="420,260,0,0" VerticalAlignment="Top" Width="98" Grid.Column="1"/>
+    <Grid>
+        <Label x:Name="label" Content="Name" HorizontalAlignment="Left" Margin="17,88,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox x:Name="pname" HorizontalAlignment="Left" Margin="85,92,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="label_Copy" Content="Description" HorizontalAlignment="Left" Margin="17,125,0,0" VerticalAlignment="Top" Width="83"/>
+        <TextBox x:Name="desc" HorizontalAlignment="Left" Margin="85,129,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="label_Copy1" Content="Price" HorizontalAlignment="Left" Margin="17,160,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox x:Name="price" HorizontalAlignment="Left" Margin="85,164,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="label_Copy2" Content="Qty" HorizontalAlignment="Left" Margin="17,195,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox x:Name="qty" HorizontalAlignment="Left" Margin="85,199,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <Label x:Name="label_Copy3" Content="Category" HorizontalAlignment="Left" Margin="17,230,0,0" VerticalAlignment="Top" Width="58"/>
+        <TextBox x:Name="cat" HorizontalAlignment="Left" Margin="85,234,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="110"/>
+        <Button x:Name="add" Content="Add" HorizontalAlignment="Left" Margin="125,294,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.754" Height="30" Width="70" Background="#FF7F27ED" BorderBrush="#FF9163F9" Foreground="White" FontFamily="Arial Black" FontSize="12" FontStyle="Italic" Click="AddProduct"/>
+        <Button x:Name="clear" Content="Clear" HorizontalAlignment="Left" Margin="30,294,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.754" Height="30" Width="70" Background="#FF7F27ED" BorderBrush="#FF9163F9" Foreground="White" FontFamily="Arial Black" FontSize="12" FontStyle="Italic" Click="ClearFeilds" />
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="17,19,0,0" TextWrapping="Wrap" Text="Enter Product Details" VerticalAlignment="Top" Height="30" Width="208" Foreground="#FF7F27ED" FontSize="20" FontWeight="Bold"/>
+        <DataGrid x:Name="productGrid" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="222,92,25,182"/>
+        <TextBlock x:Name="textBlock_Copy" TextAlignment="Center" HorizontalAlignment="Left" Margin="230,19,0,0" TextWrapping="Wrap" Text="IMTIAZ SUPER STORE" VerticalAlignment="Top" Height="30" Width="545" Foreground="#FF7F27ED" FontSize="24" FontWeight="ExtraBlack" FontStyle="Italic"/>
+        <Button x:Name="delete" Content="Delete" HorizontalAlignment="Left" Margin="502,335,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.754" Height="30" Width="203" Background="#FF7F27ED" BorderBrush="#FF9163F9" Foreground="White" FontFamily="Arial Black" FontSize="12" FontStyle="Italic" Click="DeleteProduct"/>
+        <Button x:Name="update" Content="Update" HorizontalAlignment="Left" Margin="230,335,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.754" Height="30" Width="200" Background="#FF7F27ED" BorderBrush="#FF9163F9" Foreground="White" FontFamily="Arial Black" FontSize="12" FontStyle="Italic" Click="UpdateProduct" />
+        <Label x:Name="label_Copy4" Content="Product Id" HorizontalAlignment="Left" Margin="237,287,0,0" VerticalAlignment="Top" Width="73"/>
+        <TextBox x:Name="pid" HorizontalAlignment="Left" Margin="310,291,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="85"/>
+        <Button x:Name="fetch" Content="Fetch" HorizontalAlignment="Left" Margin="400,291,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.025,0.754" Height="21" Width="40" Background="#FF7F27ED" BorderBrush="#FF9163F9" Foreground="White" FontFamily="Arial Black" FontSize="10" FontStyle="Italic" Click="FetchProduct"/>
 
     </Grid>
 </Window>
