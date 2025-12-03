@@ -91,28 +91,64 @@ void main(){
 
 
 // DATA STRUCTURES
-// LIST
-List<String> stdNames = ["Abdullah", "Saim", "Azeem", "Hassan", "Burney"];
-// print(stdNames);
+// // LIST
+// List<String> stdNames = ["Abdullah", "Saim", "Azeem", "Hassan", "Burney"];
+// // print(stdNames);
+// // print(stdNames[3]);
+// // read
+// print(stdNames.length);
+// print(stdNames.reversed);
+// print(stdNames.hashCode);
 // print(stdNames[3]);
-// read
-print(stdNames.length);
-print(stdNames.reversed);
-print(stdNames.hashCode);
-print(stdNames[3]);
 
-// create ya add
-stdNames.add("Zain");
-print(stdNames);
+// // create ya add
+// stdNames.add("Zain");
+// print(stdNames);
 
-// DELETE Element
-// stdNames.removeAt(2);
-stdNames.remove("Hassan");
-print(stdNames);
+// // DELETE Element
+// // stdNames.removeAt(2);
+// stdNames.remove("Hassan");
+// print(stdNames);
 
-// Update
-stdNames[1] = "SaimPPP";
-print(stdNames);
+// // Update
+// stdNames[1] = "SaimPPP";
+// print(stdNames);
+
+// Set:Unordered Collection of unique items
+// usecase: username, email, phone numbers, productIds, country
+// Set<String> userEmails = {"owais@gmail.com", "zunno55@gmail.com", "burneyppp@yahoo.com"};
+
+// // Create
+// userEmails.add("mahmed@gmail.com");
+
+// print(userEmails.contains("owais@gmail.com"));
+
+// userEmails.remove("burneyppp@yahoo.com");
+// print(userEmails);
+
+// Map: jab humare pas Key Value k pairs houn tou Map use kraty
+
+Map<String, dynamic> userProfile = {
+  "name": "SaimPPP",
+  "age": 25,
+  "isLoggedIn": true,
+  "email": "saimppp@yahoo.com"
+};
+
+// add
+userProfile["country"] = "Pakistan";
+print(userProfile);
+
+// remove
+userProfile.remove("age");
+
+// update
+userProfile["name"] = "Saim Burney";
+print(userProfile);
+
+// clear
+userProfile.clear();
+print(userProfile);
 
 
 }
