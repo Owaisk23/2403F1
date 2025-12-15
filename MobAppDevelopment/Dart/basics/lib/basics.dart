@@ -5,17 +5,17 @@ import 'dart:io';
 //   return value;
 // }
 // no return
-void sayHello(){
-  print("Hello from function");
-}
+// void sayHello(){
+//   print("Hello from function");
+// }
 
-String greetUser(String name){
-  return "Hello, $name";
-}
+// String greetUser(String name){
+//   return "Hello, $name";
+// }
 
-int addNumbers(int a, int b){
-  return a +b;
-}
+// int addNumbers(int a, int b){
+//   return a +b;
+// }
 
 void main(){
   // printing ways
@@ -93,8 +93,8 @@ void main(){
 // DATA STRUCTURES
 // // LIST
 // List<String> stdNames = ["Abdullah", "Saim", "Azeem", "Hassan", "Burney"];
-// // print(stdNames);
-// // print(stdNames[3]);
+// print(stdNames);
+// print(stdNames[3]);
 // // read
 // print(stdNames.length);
 // print(stdNames.reversed);
@@ -106,11 +106,11 @@ void main(){
 // print(stdNames);
 
 // // DELETE Element
-// // stdNames.removeAt(2);
+// stdNames.removeAt(2);
 // stdNames.remove("Hassan");
 // print(stdNames);
 
-// // Update
+// // // Update
 // stdNames[1] = "SaimPPP";
 // print(stdNames);
 
@@ -135,18 +135,18 @@ Map<String, dynamic> userProfile = {
   "email": "saimppp@yahoo.com"
 };
 
-// add
+// // add
 userProfile["country"] = "Pakistan";
+
+// // remove
+userProfile.remove("age");
 print(userProfile);
 
-// remove
-userProfile.remove("age");
-
-// update
+// // update
 userProfile["name"] = "Saim Burney";
 print(userProfile);
 
-// clear
+// // clear
 userProfile.clear();
 print(userProfile);
 
