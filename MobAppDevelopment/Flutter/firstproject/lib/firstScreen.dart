@@ -25,15 +25,94 @@ class _FirstScreenState extends State<FirstScreen> {
         centerTitle: true,
       ),
       body: Center(
-        child: Text(
-          "Welcome to First Screen",
-          style: TextStyle(
-            fontSize: 24,
-            fontWeight: FontWeight.w500,
-            fontFamily: 'Verdana',
-          ),
+        child: Column(
+          children: [
+            Text(
+              "Welcome to First Screen",
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.w500,
+                fontFamily: 'Verdana',
+              ),
+            ),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.blue,
+              child: Icon(Icons.home, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.red,
+              child: Icon(Icons.phone, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.yellow,
+              child: Icon(Icons.message, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.brown,
+              child: Icon(Icons.book, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.green,
+              child: Icon(
+                Icons.notification_add,
+                color: Colors.white,
+                size: 50,
+              ),
+            ),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.blue,
+              child: Icon(Icons.home, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.red,
+              child: Icon(Icons.phone, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.yellow,
+              child: Icon(Icons.message, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.brown,
+              child: Icon(Icons.book, color: Colors.white, size: 50),
+            ),
+            SizedBox(height: 10),
+            Container(
+              height: 100,
+              width: 100,
+              color: Colors.green,
+              child: Icon(
+                Icons.notification_add,
+                color: Colors.white,
+                size: 50,
+              ),
+            ),
+          ],
         ),
-        
       ),
     );
   }
