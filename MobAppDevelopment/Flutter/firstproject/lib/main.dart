@@ -1,3 +1,4 @@
+import 'package:firstproject/dynamicList.dart';
 import 'package:firstproject/firstScreen.dart';
 import 'package:firstproject/product.dart';
 import 'package:firstproject/scndScreen.dart';
@@ -32,7 +33,7 @@ class MyApp extends StatelessWidget {
       builder: DevicePreview.appBuilder,
       theme: ThemeData.light(),
       darkTheme: ThemeData.dark(),
-      home: const Product(),
+      home: const DynamicList(),
     );
   }
 }

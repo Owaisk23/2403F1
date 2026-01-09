@@ -1,3 +1,5 @@
+import 'package:firstproject/firstScreen.dart';
+import 'package:firstproject/scndScreen.dart';
 import 'package:flutter/material.dart';
 
 class Product extends StatefulWidget {
@@ -75,7 +77,9 @@ class _ProductState extends State<Product> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     ElevatedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                        Navigator.push(context, MaterialPageRoute(builder: (context) => FirstScreen()));
+                      },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.black87,
                         foregroundColor: Colors.white,
@@ -87,7 +91,9 @@ class _ProductState extends State<Product> {
                     ),
                     SizedBox(width: 10,),
                     ElevatedButton(
-                      onPressed: () {},
+                      onPressed: () {
+                         Navigator.push(context, MaterialPageRoute(builder: (context) => ScndScreen()));
+                      },
                       style: ElevatedButton.styleFrom(
                         backgroundColor: Colors.black87,
                         foregroundColor: Colors.white,
