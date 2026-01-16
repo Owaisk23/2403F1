@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:firstproject/drawerSidebar.dart' as drawerSidebar;
 
 class FirstScreen extends StatefulWidget {
   const FirstScreen({Key? key}) : super(key: key);
@@ -24,6 +25,7 @@ class _FirstScreenState extends State<FirstScreen> {
         foregroundColor: Colors.white,
         centerTitle: true,
       ),
+      drawer: drawerSidebar.DrawerSidebar(),
       body: Padding(
         // padding: const EdgeInsets.all(28.0),
         // padding: const EdgeInsets.symmetric(horizontal: 16.0, vertical: 24.0),

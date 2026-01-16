@@ -1,3 +1,4 @@
+import 'package:firstproject/drawerSidebar.dart' as drawerSidebar;
 import 'package:flutter/material.dart';
 
 class ScndScreen extends StatefulWidget {
@@ -29,6 +30,7 @@ class _ScndScreenState extends State<ScndScreen> {
         foregroundColor: Colors.white,
         centerTitle: true,
       ),
+      drawer: drawerSidebar.DrawerSidebar(),
       body: Center(
         child: Column(
           children: [

@@ -1,3 +1,4 @@
+import 'package:firstproject/drawerSidebar.dart' as drawerSidebar;
 import 'package:flutter/material.dart';
 
 class DynamicList extends StatefulWidget {
@@ -121,6 +122,7 @@ class _DynamicListState extends State<DynamicList> {
         foregroundColor: Colors.white,
         centerTitle: true,
       ),
+      drawer: drawerSidebar.DrawerSidebar(),
       body:Center(
         child:  ListView.builder(
         itemCount: Cars.length,
