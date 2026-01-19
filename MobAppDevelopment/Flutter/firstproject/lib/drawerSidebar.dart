@@ -1,3 +1,4 @@
+import 'package:firstproject/apiProducts.dart';
 import 'package:firstproject/dynamicList.dart';
 import 'package:firstproject/firstScreen.dart';
 import 'package:firstproject/product.dart';
@@ -55,6 +56,13 @@ class _DrawerSidebarState extends State<DrawerSidebar> {
             title: Text("Product Screen"),
             onTap: (){
               Navigator.push(context, MaterialPageRoute(builder: (context) => Product()));
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.notifications),
+            title: Text("API Products Screen"),
+            onTap: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context) => ApiProducts()));
             },
           ),
         ],

@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
       builder: DevicePreview.appBuilder,
       theme: ThemeData.light(),
       darkTheme: ThemeData.dark(),
-      home: const DarazScreen(),
+      home: const DynamicList(),
     );
   }
 }
