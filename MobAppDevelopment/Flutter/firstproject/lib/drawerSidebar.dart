@@ -3,6 +3,7 @@ import 'package:firstproject/dynamicList.dart';
 import 'package:firstproject/firstScreen.dart';
 import 'package:firstproject/product.dart';
 import 'package:firstproject/scndScreen.dart';
+import 'package:firstproject/songApp.dart';
 import 'package:flutter/material.dart';
 
 class DrawerSidebar extends StatefulWidget {
@@ -63,6 +64,13 @@ class _DrawerSidebarState extends State<DrawerSidebar> {
             title: Text("API Products Screen"),
             onTap: (){
               Navigator.push(context, MaterialPageRoute(builder: (context) => ApiProducts()));
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.notifications),
+            title: Text("Song App Screen"),
+            onTap: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context) => SongApp()));
             },
           ),
         ],
