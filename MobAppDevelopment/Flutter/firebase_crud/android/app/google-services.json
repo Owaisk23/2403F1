@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "634032719081",
+    "firebase_url": "https://crud-2403f1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "crud-2403f1",
+    "storage_bucket": "crud-2403f1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634032719081:android:75e12a446e7c61620a5c78",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLa7Rugoob3qP8mdGerdsQjBaYlJBUAV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

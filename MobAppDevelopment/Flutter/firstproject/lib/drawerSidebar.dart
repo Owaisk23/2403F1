@@ -3,6 +3,7 @@ import 'package:firstproject/dynamicList.dart';
 import 'package:firstproject/firstScreen.dart';
 import 'package:firstproject/product.dart';
 import 'package:firstproject/scndScreen.dart';
+import 'package:firstproject/signupScreen.dart';
 import 'package:firstproject/songApp.dart';
 import 'package:flutter/material.dart';
 
@@ -71,6 +72,13 @@ class _DrawerSidebarState extends State<DrawerSidebar> {
             title: Text("Song App Screen"),
             onTap: (){
               Navigator.push(context, MaterialPageRoute(builder: (context) => SongApp()));
+            },
+          ),
+          ListTile(
+            leading: Icon(Icons.notifications),
+            title: Text("Signup Screen"),
+            onTap: (){
+              Navigator.push(context, MaterialPageRoute(builder: (context) => SignupScreen()));
             },
           ),
         ],
