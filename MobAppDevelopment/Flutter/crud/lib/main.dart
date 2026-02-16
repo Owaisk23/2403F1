@@ -1,5 +1,6 @@
 import 'package:crud/Screens/addproduct.dart';
 import 'package:crud/Screens/products.dart';
+import 'package:crud/Screens/splashScreen.dart';
 import 'package:crud/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
@@ -12,7 +13,11 @@ void main()async {
    runApp(
     MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Products(),
+      home: SplashScreen(),
+      routes: {
+        "/products":(context)=>Products(),
+        "/add":(context)=>Addproduct(),
+      },
     ),
   );
 }
