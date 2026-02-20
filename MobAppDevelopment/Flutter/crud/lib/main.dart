@@ -1,4 +1,5 @@
 import 'package:crud/Screens/addproduct.dart';
+import 'package:crud/Screens/login.dart';
 import 'package:crud/Screens/products.dart';
 import 'package:crud/Screens/signup.dart';
 import 'package:crud/Screens/splashScreen.dart';
@@ -17,6 +18,7 @@ void main()async {
       home: SplashScreen(),
       routes: {
         "/signup": (context)=>Signup(),
+        "/login": (context)=>Login(),
         "/products":(context)=>Products(),
         "/add":(context)=>Addproduct(),
         
