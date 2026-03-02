@@ -2,6 +2,7 @@ import 'package:crud/Screens/addproduct.dart';
 import 'package:crud/Screens/login.dart';
 import 'package:crud/Screens/products.dart';
 import 'package:crud/Screens/signup.dart';
+import 'package:crud/Screens/signupgoogle.dart';
 import 'package:crud/Screens/splashScreen.dart';
 import 'package:crud/firebase_options.dart';
 import 'package:firebase_core/firebase_core.dart';
@@ -17,6 +18,7 @@ void main()async {
       debugShowCheckedModeBanner: false,
       home: SplashScreen(),
       routes: {
+        "/signupgoogle": (context)=>Signupgoogle(),
         "/signup": (context)=>Signup(),
         "/login": (context)=>Login(),
         "/products":(context)=>Products(),
