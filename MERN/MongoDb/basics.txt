@@ -1,0 +1,15 @@
+Mongo Shell:
+1. mongosh
+2. show dbs
+3. use dbname
+4. show collections
+5. db.students.insertOne({name: "Qari Saim Ullah", age: 78, major: "Islamist"})
+6. db.students.findOne()
+7. db.students.find({age: {$lt : 19}})
+8. db.students.find({age: {$gt : 19}})
+9. db.students.find({age: {$eq : 19}})
+10. db.students.find({age: {$neq : 19}})
+11. db.students.deleteOne({age: 18})
+12. db.students.deleteMany({$and: [{major: 'CS'}, {age: 18}]})
+13. db.students.deleteMany({$or: [{major: 'CS'}, {age: 18}]})
+14. db.students.updateOne({age: 78}, {$set: {name: 'Saim Cute Burney'}})
