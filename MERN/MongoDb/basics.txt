@@ -13,3 +13,239 @@ Mongo Shell:
 12. db.students.deleteMany({$and: [{major: 'CS'}, {age: 18}]})
 13. db.students.deleteMany({$or: [{major: 'CS'}, {age: 18}]})
 14. db.students.updateOne({age: 78}, {$set: {name: 'Saim Cute Burney'}})
+
+
+
+Task
+database : HNTech
+collection : Employees
+name String
+age number
+education String[]
+cnic number
+salary number
+department String 
+
+1. Insert 5 employees.
+2. find all employees whose salary is greater than 50000.
+3. update all employees and add maritalStatus:false.
+4. update first employee who's salary is greater then 20000.(updateOne)
+5. delete employees of Designing department.(deleteMany)
+
+
+Queries(and or operator);
+
+ db.products.find({$and:[{brand:"Taar"},{price:{$lte:500}}]})
+ db.products.find({$or:[{brand:"Taar"},{price:{$gte:1500}}]})
+
+ db.products.find({
+$and:[
+{brand:"Taar"},
+{$or:[
+{price:{$lt:1400}},
+{brand:{$ne:"Taar"}
+}]}]})
+
+brand taar ho or sath m price 1400 s kam ho ya phr brand taar na ho
+
+
+// operators
+
+mongosh
+use dbName
+insert:
+db.products.insertOne({title:"USB Type C",price:550,brand:"Taar",stock:65})
+db.products.insertMany([{title:"USB Type C",price:550,brand:"Taar",stock:65,cat_id:1},{title:"USB Type C to C",price:850,brand:"Ronin",stock:80,cat_id:1},{title:"USB Type A",price:250,brand:"Taar",stock:150,cat_id:2},{title:"USB Type C to Lightining",price:1250,brand:"Ronin",stock:10,cat_id:2},{title:"USB Type C to C",price:450,brand:"Faster",stock:78,cat_id:3}])
+
+title:
+price:
+rating:
+brand:
+stock:
+
+insert 5 products
+
+{stock jo h wo 50 s km ho 
+ya (or)
+phr rating wo 4 s ziada ho }
+
+ya(or)
+
+{price jo h wo 560 s ziada ho
+or (and)
+phr brand jo h wo Ronin na ho}
+
+
+
+db.products.find(
+
+{
+
+$or:[
+{$or:[{stock:{$lt:50}},{rating:{$gt:4}}]},
+{$and:[{price:{$gt:560}},{brand:{$ne:"Ronin"}}]}
+]
+}
+
+)
+
+
+
+
+
+
+
+
+
+
+
+
+
+db.products.find({$or:
+[
+{$or:[{stock:{$lt:50}},{rating:{$gt:4}},]},
+{$and:[{price:{$gt:560}},{brand:{$ne:"Ronin"}}]}
+]})
+
+
+
+
+
+
+
+ db.products.find({$and:
+[
+{brand:"Taar"},
+{$or:
+[
+{price:{$lt:1000}},
+{stock:{$lt:80}
+]}
+
+]})
+
+products m jao or wo product lao jis ka brand taar ho 
+or(and)
+price 1000 s kam ho 
+ya (or)
+stock 80 s kam ho
+
+
+
+
+$in = ["Ronin","Taar"]
+$nin
+
+//Cursors
+//sort
+//skip
+//limit
+
+//join
+db.products.aggregate(
+[{$lookup:
+{
+from:"categories",
+localField:"cat_id",
+foreignField:"cat_id", 
+as:"category"
+}}]);
+
+//output
+[
+  {
+    _id: ObjectId('67d8f6f4737e9e0e9346b799'),    
+    title: 'USB Type C',
+    price: 550,
+    brand: 'Taar',
+    stock: 65,
+    cat_id: 1,
+    category: [
+      {
+        _id: ObjectId('67d8f7f0737e9e0e9346b79e'),
+        cat_id: 1,
+        cat_name: 'Copper Cables',
+        description: '100% copper cables'
+      }
+    ]
+  },
+  {
+    _id: ObjectId('67d8f6f4737e9e0e9346b79a'),
+    title: 'USB Type C to C',
+    price: 850,
+    brand: 'Ronin',
+    stock: 80,
+    cat_id: 1,
+    category: [
+      {
+        _id: ObjectId('67d8f7f0737e9e0e9346b79e'),
+        cat_id: 1,
+        cat_name: 'Copper Cables',
+        description: '100% copper cables'
+      }
+    ]
+  },
+  {
+    _id: ObjectId('67d8f6f4737e9e0e9346b79b'),
+    title: 'USB Type A',
+    price: 250,
+    brand: 'Taar',
+    stock: 150,
+    cat_id: 2,
+    category: [
+      {
+        _id: ObjectId('67d8f7f0737e9e0e9346b79f'),
+        cat_id: 2,
+        cat_name: 'Silver Cables',
+        description: '100% silver cables'
+      }
+    ]
+  },
+  {
+    _id: ObjectId('67d8f6f4737e9e0e9346b79c'),
+    title: 'USB Type C to Lightining',
+    price: 1250,
+    brand: 'Ronin',
+    stock: 10,
+    cat_id: 2,
+    category: [
+      {
+        _id: ObjectId('67d8f7f0737e9e0e9346b79f'),
+        cat_id: 2,
+        cat_name: 'Silver Cables',
+        description: '100% silver cables'
+      }
+    ]
+  },
+  {
+    _id: ObjectId('67d8f6f4737e9e0e9346b79d'),
+    title: 'USB Type C to C',
+    price: 450,
+    brand: 'Faster',
+    stock: 78,
+    cat_id: 3,
+    category: [
+      {
+        _id: ObjectId('67d8f7f0737e9e0e9346b7a0'),
+        cat_id: 3,
+        cat_name: 'Bronze Cables',
+        description: '100% bronze cables'
+      }
+    ]
+  }
+]
+
+products.category[0].cat_name
+
+
+
+
+//exists
+//in
+//notin 
+//eq
+//count
+//updateOne
+//updateMany
+//deleteOne
+//deleteMany
