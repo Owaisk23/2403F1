@@ -7,8 +7,17 @@ import MyName from "./components/MyName";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Card from "./components/Card";
+import Bachra from "./assets/bahra.jpg"
+import Todo from "./components/Todo";
 
 function App() {
+  let [count, setCount] = useState(100);
+
+  let [user, setUser] = useState({
+    name: "Owais Ahmed Khan",
+    profession: "Software Developer",
+  });
+
   let userData = [
     {
       name: "Owais Ahmed Khan",
@@ -75,16 +84,40 @@ function App() {
     },
   ];
 
+  const handleIncremtent = () => {
+    setCount(count + 1);
+    // count++
+    console.log(count);
+  };
+
+  const updateUser = () => {
+    setUser({ ...user, profession: "Full Stack Developer" });
+    // console.log(user);
+  };
+
   return (
     <>
       <Navbar />
       <h1 className="heading bg-primary">Hello in ReactJS</h1>
-
+      {/* <img src={Bachra} alt="" /> */}
+      
       {/* <h2>Name: {userData[0].name} Profession: {userData[0].profession}</h2>
       <h2>Name: {userData[1].name} Profession: {userData[1].profession}</h2>
       <h2>Name: {userData[2].name} Profession: {userData[2].profession}</h2>
       <h2>Name: {userData[3].name} Profession: {userData[3].profession}</h2>
       <h2>Name: {userData[4].name} Profession: {userData[4].profession}</h2> */}
+
+      {/* <h2>{count}</h2>
+      <button className="btn btn-primary" onClick={handleIncremtent}>
+        Increment({count})
+      </button>
+
+      <h2>
+        Name: {user.name} Profession: {user.profession}
+      </h2>
+      <button className="btn btn-primary" onClick={updateUser}>
+        Update User
+      </button> */}
 
       {/* <div>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos nesciunt excepturi ea velit fuga consequuntur, reiciendis at iure corrupti et veniam dolores quos quo nisi!</p>
@@ -93,7 +126,7 @@ function App() {
       </div> */}
       {/* <MyName name={"Owais Ahmed"} profession={"Software Engineer"} /> */}
 
-      {userData.map((user, index) => {
+      {/* {userData.map((user, index) => {
         return (
           <MyName key={index} name={user.name} profession={user.profession} />
         );
@@ -104,8 +137,11 @@ function App() {
         return (
           <Card key={index} title={card.title} desc={card.desc} img={card.img} />
         );
-      })}
-      <Footer />
+      })} */}
+
+      <Todo />
+
+      {/* <Footer /> */}
     </>
   );
 }
