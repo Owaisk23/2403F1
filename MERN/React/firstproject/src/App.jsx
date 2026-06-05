@@ -9,6 +9,8 @@ import Footer from "./components/Footer";
 import Card from "./components/Card";
 import Bachra from "./assets/bahra.jpg"
 import Todo from "./components/Todo";
+import ApiFetch from "./components/ApiFetch";
+
 
 function App() {
   let [count, setCount] = useState(100);
@@ -140,6 +142,8 @@ function App() {
       })} */}
 
       <Todo />
+
+      <ApiFetch />
 
       {/* <Footer /> */}
     </>
