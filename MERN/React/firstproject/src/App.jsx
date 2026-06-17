@@ -10,7 +10,9 @@ import Card from "./components/Card";
 import Bachra from "./assets/bahra.jpg"
 import Todo from "./components/Todo";
 import ApiFetch from "./components/ApiFetch";
-
+import {Route, Routes} from "react-router";
+import Parent from "./components/Parent";
+// import Bulb from "./components/Bulb";
 
 function App() {
   let [count, setCount] = useState(100);
@@ -99,8 +101,8 @@ function App() {
 
   return (
     <>
-      <Navbar />
-      <h1 className="heading bg-primary">Hello in ReactJS</h1>
+      {/* <Navbar />
+      <h1 className="heading bg-primary">Hello in ReactJS</h1> */}
       {/* <img src={Bachra} alt="" /> */}
       
       {/* <h2>Name: {userData[0].name} Profession: {userData[0].profession}</h2>
@@ -141,9 +143,28 @@ function App() {
         );
       })} */}
 
-      <Todo />
+      {/* <Todo /> */}
 
-      <ApiFetch />
+      {/* <ApiFetch /> */}
+      <Parent />
+      <Routes>
+        {/* <Route path="/myname" element={<MyName />} /> */}
+
+        <Route path="admin/">
+          {/* <Route path="dashboard" element={<Dashboard/>}/> */}
+          <Route path="products/">
+            {/* <Route path="add" element={<Cards/>}/> */}
+            {/* <Route path="show" element={<Bulb/>}/> */}
+          </Route>
+        </Route>
+      </Routes>
+
+      {/* Consider you have 4 Roles
+      Admin have 4 group routes
+      Seller has 2 group routes
+      Employee has 3 group routes */}
+
+
 
       {/* <Footer /> */}
     </>
