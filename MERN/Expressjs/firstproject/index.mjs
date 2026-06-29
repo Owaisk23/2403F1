@@ -135,34 +135,37 @@ app.post('/addproduct', (req, res) => {
 
 // //Delete product
 
-app.delete('/deleteproduct/:id', (req, res) => {
+
+app.delete("/deleteproduct/:id", (req, res) => {
   try {
+    const id = req.params.id;
 
-    let id = req.params.id;
-
-    let deletedProduct = products.find((prd) => prd.id == id);
+    const deletedProduct = products.find((item) => item.id == id);
 
     if (!deletedProduct) {
       return res.status(404).json({
-        message: "Product not found"
+        message: "Product not found",
       });
     }
 
-    products = products.filter(item => item.id != id);
+    products = products.filter((item) => item.id != id);
+
+    // Save updated array to file
+    fs.writeFileSync(
+      "./data.json",
+      JSON.stringify(products, null, 2)
+    );
 
     res.status(200).json({
       message: "Product deleted successfully",
-      product: deletedProduct
+      product: deletedProduct,
     });
 
   } catch (error) {
-
     console.log(error);
-
     res.status(500).json({
-      message: error.message
+      message: error.message,
     });
-
   }
 });
 
