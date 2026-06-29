@@ -1795,9 +1795,15 @@
         "https://cdn.dummyjson.com/product-images/groceries/kiwi/1.webp"
       ],
       "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/kiwi/thumbnail.webp"
+    },
+    {
+      "title": "Water Bottle",
+      "description": "Nutrient-rich water, perfect for Bottle or adding a tropical twist to your water.",
+      "category": "plastic",
+      "price": 990,
+      "discountPercentage": 220,
+      "rating": 3.93,
+      "stock": 70
     }
-  ],
-  "total": 194,
-  "skip": 0,
-  "limit": 30
+  ]
 }
