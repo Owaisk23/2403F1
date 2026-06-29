@@ -15,76 +15,78 @@ const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
 let products = data.products;
 
-app.get('/', (req, res) => {
-  res.send('Hello World!');
-});
+// app.get('/', (req, res) => {
+//   res.send('Hello World!');
+// });
 
-app.get('/about', (req, res) => {
-  res.send('Hello in About Page!');
-});
+// app.get('/about', (req, res) => {
+//   res.send('Hello in About Page!');
+// });
 
-app.get('/image', (req, res) => {
-  res.sendFile(dirname + '/static/bachra.jpg');
-});
+// app.get('/image', (req, res) => {
+//   res.sendFile(dirname + '/static/bachra.jpg');
+// });
 
-app.use('/home', express.static(dirname, { index: '/static/index.html' }));
-
-
-// Router Parameters (The are compulsory)
-app.get('/product/:id', (req, res) => {
-  res.json({ name: 'Product No: ' + req.params.id });
-})
-
-app.get('/posts/:id', (req, res) => {
-  let postId = req.params.id;
-  let postObj = [
-    {
-      postId: 1,
-      title: 'Palestine Ceases Fire',
-      content: 'After 1100 days of conflict, a ceasefire was announced between',
-    },
-    {
-      postId: 2,
-      title: 'Ukraine War',
-      content: 'The war in Ukraine has caused unprecedented destruction and',
-    },
-    {
-      postId: 3,
-      title: 'Global Economic Outlook',
-      content: 'The global economy is facing significant challenges due to',
-    }
-  ];
-
-  postObj.map((post) => {
-    if (post.postId == postId) {
-      console.log(post);
-      postObj = post;
-    }
-  })
-  res.json(postObj);
-})
+// app.use('/home', express.static(dirname, { index: '/static/index.html' }));
 
 
+// // Router Parameters (The are compulsory)
+// app.get('/product/:id', (req, res) => {
+//   res.json({ name: 'Product No: ' + req.params.id });
+// })
 
-// Query Parameters (They are option)
-app.get('/categories', (req, res) => {
-  if (req.query.name) {
-    res.json({ name: "Category: " + req.query.name })
-  }
-  else {
-    res.json({ name: "All Categories" })
-  }
-})
+// app.get('/posts/:id', (req, res) => {
+//   let postId = req.params.id;
+//   let postObj = [
+//     {
+//       postId: 1,
+//       title: 'Palestine Ceases Fire',
+//       content: 'After 1100 days of conflict, a ceasefire was announced between',
+//     },
+//     {
+//       postId: 2,
+//       title: 'Ukraine War',
+//       content: 'The war in Ukraine has caused unprecedented destruction and',
+//     },
+//     {
+//       postId: 3,
+//       title: 'Global Economic Outlook',
+//       content: 'The global economy is facing significant challenges due to',
+//     }
+//   ];
 
-// Request Body (They are used to send data to server)
-app.get('/contact', (req, res) => {
-  const name = req.body.name;
-  const age = req.body.age;
-  const city = req.body.city;
+//   postObj.map((post) => {
+//     if (post.postId == postId) {
+//       console.log(post);
+//       postObj = post;
+//     }
+//   })
+//   res.json(postObj);
+// })
 
-  res.json({ name: name, age: age, city: city })
-})
 
+
+// // Query Parameters (They are option)
+// app.get('/categories', (req, res) => {
+//   if (req.query.name) {
+//     res.json({ name: "Category: " + req.query.name })
+//   }
+//   else {
+//     res.json({ name: "All Categories" })
+//   }
+// })
+
+// // Request Body (They are used to send data to server)
+// app.get('/contact', (req, res) => {
+//   const name = req.body.name;
+//   const age = req.body.age;
+//   const city = req.body.city;
+
+//   res.json({ name: name, age: age, city: city })
+// })
+
+
+// TAMAAM PRODUCTS FETCH KRKE LE AAO
 app.get('/products', (req, res) => {
   try {
     res.status(200).json({ message: "Products fetched successfully", products: products });
@@ -97,6 +99,32 @@ app.get('/products', (req, res) => {
 }
 )
 
+// FETCH KRO BY ID
+app.get("/products/:id", (req, res) => {
+  try {
+    const id = req.params.id;
+
+    const product = data.find((item) => item.id == id);
+
+    if (!product) {
+      return res.status(404).json({
+        message: "Product not found"
+      });
+    }
+
+    res.status(200).json({
+      message: "Product fetched successfully",
+      products: product
+    });
+
+  } catch (error) {
+    res.status(500).json({
+      message: error.message
+    });
+  }
+});
+
+// ADD PRODUCT FILE K ANDR
 app.post('/addproduct', (req, res) => {
   try {
     const newProduct = req.body;
@@ -131,11 +159,7 @@ app.post('/addproduct', (req, res) => {
 });
 
 
-
-
-// //Delete product
-
-
+// //Delete KRDO product
 app.delete("/deleteproduct/:id", (req, res) => {
   try {
     const id = req.params.id;
