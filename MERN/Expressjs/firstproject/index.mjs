@@ -2,10 +2,12 @@
 import express from 'express';
 import path from 'path';
 import fs from 'node:fs';
+import productRouter from './routes/productRoutes.mjs';
 const app = express();
 
 const port = 3000;
 app.use(express.json());
+
 
 const dirname = path.resolve();
 
@@ -15,6 +17,7 @@ const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
 let products = data.products;
 
+app.use('/products', productRouter);
 // app.get('/', (req, res) => {
 //   res.send('Hello World!');
 // });
@@ -87,111 +90,111 @@ let products = data.products;
 
 
 // TAMAAM PRODUCTS FETCH KRKE LE AAO
-app.get('/products', (req, res) => {
-  try {
-    res.status(200).json({ message: "Products fetched successfully", products: products });
-  }
-  catch (error) {
-    console.error("Error fetching products: ", error);
-    res.status(500).json({ message: "Error fetching products", error: error.message });
-  }
+// app.get('/products', (req, res) => {
+//   try {
+//     res.status(200).json({ message: "Products fetched successfully", products: products });
+//   }
+//   catch (error) {
+//     console.error("Error fetching products: ", error);
+//     res.status(500).json({ message: "Error fetching products", error: error.message });
+//   }
 
-}
-)
+// }
+// )
 
-// FETCH KRO BY ID
-app.get("/products/:id", (req, res) => {
-  try {
-    const id = req.params.id;
+// // FETCH KRO BY ID
+// app.get("/products/:id", (req, res) => {
+//   try {
+//     const id = req.params.id;
 
-    const product = data.find((item) => item.id == id);
+//     const product = data.find((item) => item.id == id);
 
-    if (!product) {
-      return res.status(404).json({
-        message: "Product not found"
-      });
-    }
+//     if (!product) {
+//       return res.status(404).json({
+//         message: "Product not found"
+//       });
+//     }
 
-    res.status(200).json({
-      message: "Product fetched successfully",
-      products: product
-    });
+//     res.status(200).json({
+//       message: "Product fetched successfully",
+//       products: product
+//     });
 
-  } catch (error) {
-    res.status(500).json({
-      message: error.message
-    });
-  }
-});
+//   } catch (error) {
+//     res.status(500).json({
+//       message: error.message
+//     });
+//   }
+// });
 
-// ADD PRODUCT FILE K ANDR
-app.post('/addproduct', (req, res) => {
-  try {
-    const newProduct = req.body;
+// // ADD PRODUCT FILE K ANDR
+// app.post('/addproduct', (req, res) => {
+//   try {
+//     const newProduct = req.body;
 
-    // basic validation (optional but recommended)
-    if (!newProduct.title || !newProduct.price) {
-      return res.status(400).json({ message: "name and price are required" });
-    }
+//     // basic validation (optional but recommended)
+//     if (!newProduct.title || !newProduct.price) {
+//       return res.status(400).json({ message: "name and price are required" });
+//     }
 
-    // add new product
-    products.push(newProduct);
+//     // add new product
+//     products.push(newProduct);
 
-    // save back to file
-    fs.writeFileSync(
-      dataPath,
-      JSON.stringify({ products }, null, 2),
-      'utf-8'
-    );
+//     // save back to file
+//     fs.writeFileSync(
+//       dataPath,
+//       JSON.stringify({ products }, null, 2),
+//       'utf-8'
+//     );
 
-    res.status(201).json({
-      message: "Product added successfully",
-      product: newProduct
-    });
+//     res.status(201).json({
+//       message: "Product added successfully",
+//       product: newProduct
+//     });
 
-  } catch (error) {
-    console.error("error adding product:", error);
-    res.status(500).json({
-      message: "error adding product",
-      error: error.message
-    });
-  }
-});
+//   } catch (error) {
+//     console.error("error adding product:", error);
+//     res.status(500).json({
+//       message: "error adding product",
+//       error: error.message
+//     });
+//   }
+// });
 
 
-// //Delete KRDO product
-app.delete("/deleteproduct/:id", (req, res) => {
-  try {
-    const id = req.params.id;
+// // //Delete KRDO product
+// app.delete("/deleteproduct/:id", (req, res) => {
+//   try {
+//     const id = req.params.id;
 
-    const deletedProduct = products.find((item) => item.id == id);
+//     const deletedProduct = products.find((item) => item.id == id);
 
-    if (!deletedProduct) {
-      return res.status(404).json({
-        message: "Product not found",
-      });
-    }
+//     if (!deletedProduct) {
+//       return res.status(404).json({
+//         message: "Product not found",
+//       });
+//     }
 
-    products = products.filter((item) => item.id != id);
+//     products = products.filter((item) => item.id != id);
 
-    // Save updated array to file
-    fs.writeFileSync(
-      "./data.json",
-      JSON.stringify(products, null, 2)
-    );
+//     // Save updated array to file
+//     fs.writeFileSync(
+//       "./data.json",
+//       JSON.stringify(products, null, 2)
+//     );
 
-    res.status(200).json({
-      message: "Product deleted successfully",
-      product: deletedProduct,
-    });
+//     res.status(200).json({
+//       message: "Product deleted successfully",
+//       product: deletedProduct,
+//     });
 
-  } catch (error) {
-    console.log(error);
-    res.status(500).json({
-      message: error.message,
-    });
-  }
-});
+//   } catch (error) {
+//     console.log(error);
+//     res.status(500).json({
+//       message: error.message,
+//     });
+//   }
+// });
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
