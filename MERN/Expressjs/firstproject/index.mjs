@@ -3,6 +3,8 @@ import express from 'express';
 import path from 'path';
 import fs from 'node:fs';
 import productRouter from './routes/productRoutes.mjs';
+// const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 const app = express();
 
 const port = 3000;
@@ -18,6 +20,17 @@ const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 let products = data.products;
 
 app.use('/products', productRouter);
+
+
+// getting-started.js
+
+main().catch(err => console.log(err));
+
+async function main() {
+  await mongoose.connect('mongodb+srv://owaisahmedkhan:owais123@cluster0.mbgw7ps.mongodb.net/Mart');
+  console.log("MongoDB Connected!")
+  // use `await mongoose.connect('mongodb://user:password@127.0.0.1:27017/test');` if your database has auth enabled
+}
 // app.get('/', (req, res) => {
 //   res.send('Hello World!');
 // });
