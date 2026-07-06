@@ -1,23 +1,29 @@
 import fs from 'node:fs';
-import path from 'path';
+// import path from 'path';
+import Product from '../model/productModel.mjs';
 
-const dirname = path.resolve();
-const dataPath = 'data.json';
-const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
+// const dirname = path.resolve();
+// const dataPath = 'data.json';
+// const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
 
-let products = data;
+// let products = data;
 
-let index = (req, res) => {
+// Fetching data from database
+let index = async (req, res) => {
   try {
-    res.status(200).json({ message: "Products fetched successfully", products: data });
+    const products = await Product.find();
+    if(products.length > 0){
+      res.status(200).json({ message: "Products found", products: products });
+    } else {
+      res.status(404).json({ message: "No products found" });
+    }
+  } catch (error) {
+    console.log(error);
+    res.status(500).json({ message: error.message })
   }
-  catch (error) {
-    console.error("Error fetching products: ", error);
-    res.status(500).json({ message: "Error fetching products", error: error.message });
-  }
-
 }
+
 
 let singleProduct = (req, res) => {
   try {
