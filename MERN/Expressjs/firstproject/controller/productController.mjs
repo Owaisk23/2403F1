@@ -13,7 +13,7 @@ import Product from '../model/productModel.mjs';
 let index = async (req, res) => {
   try {
     const products = await Product.find();
-    if(products.length > 0){
+    if (products.length > 0) {
       res.status(200).json({ message: "Products found", products: products });
     } else {
       res.status(404).json({ message: "No products found" });
@@ -24,6 +24,58 @@ let index = async (req, res) => {
   }
 }
 
+let create = async (req, res) => {
+  
+      console.log(req.headers);
+      console.log(req.body);
+
+  try {
+    const {
+      title,
+      description,
+      price,
+      discountedPercentage,
+      rating,
+      stock,
+      brand,
+      category,
+      thumbnail,
+      images
+    } = req.body;
+
+    const product = new Product({
+      title,
+      description,
+      price,
+      discountedPercentage,
+      rating,
+      stock,
+      brand,
+      category,
+      thumbnail,
+      images
+    });
+
+    // // mongoose method to save data to database
+    // const addProd = await product.save();
+    // mongodb method to save data to database
+    let addProd = await Product.insertOne(product);
+
+    res.status(201).json({
+      message: "Product created successfully",
+      product: addProd
+    });
+
+  } catch (error) {
+    console.log(error);
+
+    if (error.name === "ValidationError") {
+      return res.status(400).json({ message: error.message });
+    }
+
+    res.status(500).json({ message: error.message });
+  }
+};
 
 let singleProduct = (req, res) => {
   try {
@@ -49,82 +101,83 @@ let singleProduct = (req, res) => {
   }
 }
 
-let addProduct =  (req, res) => {
-  try {
-    const newProduct = req.body;
+// let addProduct =  (req, res) => {
+//   try {
+//     const newProduct = req.body;
 
-    // basic validation (optional but recommended)
-    if (!newProduct.title || !newProduct.price) {
-      return res.status(400).json({ message: "name and price are required" });
-    }
+//     // basic validation (optional but recommended)
+//     if (!newProduct.title || !newProduct.price) {
+//       return res.status(400).json({ message: "name and price are required" });
+//     }
 
-    // add new product
-    products.push(newProduct);
+//     // add new product
+//     products.push(newProduct);
 
-    // save back to file
-    fs.writeFileSync(
-      dataPath,
-      JSON.stringify({ products }, null, 2),
-      'utf-8'
-    );
+//     // save back to file
+//     fs.writeFileSync(
+//       dataPath,
+//       JSON.stringify({ products }, null, 2),
+//       'utf-8'
+//     );
 
-    res.status(201).json({
-      message: "Product added successfully",
-      product: newProduct
-    });
+//     res.status(201).json({
+//       message: "Product added successfully",
+//       product: newProduct
+//     });
 
-  } catch (error) {
-    console.error("error adding product:", error);
-    res.status(500).json({
-      message: "error adding product",
-      error: error.message
-    });
-  }
-}
-let deleteProduct = (req, res) => {
-  try {
-    const id = Number(req.params.id);
+//   } catch (error) {
+//     console.error("error adding product:", error);
+//     res.status(500).json({
+//       message: "error adding product",
+//       error: error.message
+//     });
+//   }
+// }
+// let deleteProduct = (req, res) => {
+//   try {
+//     const id = Number(req.params.id);
 
-    let data = JSON.parse(fs.readFileSync(dataPath, "utf8"));
+//     let data = JSON.parse(fs.readFileSync(dataPath, "utf8"));
 
-    const deletedProduct = data.products.find(
-      product => product.id === id
-    );
+//     const deletedProduct = data.products.find(
+//       product => product.id === id
+//     );
 
-    if (!deletedProduct) {
-      return res.status(404).json({
-        message: "Product not found"
-      });
-    }
+//     if (!deletedProduct) {
+//       return res.status(404).json({
+//         message: "Product not found"
+//       });
+//     }
 
-    data.products = data.products.filter(
-      product => product.id !== id
-    );
+//     data.products = data.products.filter(
+//       product => product.id !== id
+//     );
 
-    fs.writeFileSync(
-      dataPath,
-      JSON.stringify(data, null, 2),
-      "utf8"
-    );
+//     fs.writeFileSync(
+//       dataPath,
+//       JSON.stringify(data, null, 2),
+//       "utf8"
+//     );
 
-    res.status(200).json({
-      message: "Product deleted successfully",
-      product: deletedProduct
-    });
+//     res.status(200).json({
+//       message: "Product deleted successfully",
+//       product: deletedProduct
+//     });
 
-  } catch (error) {
-    res.status(500).json({
-      message: "Error deleting product",
-      error: error.message
-    });
-  }
-};
+//   } catch (error) {
+//     res.status(500).json({
+//       message: "Error deleting product",
+//       error: error.message
+//     });
+//   }
+// };
 
 const productController = {
   index,
   singleProduct,
-  addProduct,
-  deleteProduct
+  create,
+  // addProduct,
+  // deleteProduct
 };
 
 export default productController;

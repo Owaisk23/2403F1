@@ -26,7 +26,7 @@ const productSchema = new Schema({
   },
   brand: { type: String, required: [true, "Brand is required"] },
   category: { type: String, required: [true, "Category is required"] },
-  thumbnail: { type: String, required: [true, "Thumnail is required"] },
+  // thumbnail: { type: String, required: [true, "Thumnail is required"] },
   images: { type: String, required: [true, "Images is required"] },
 });
 

@@ -9,17 +9,16 @@ const app = express();
 
 const port = 3000;
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+// const dirname = path.resolve();
+
+// const dataPath = './data.json';
+// const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
 
 
-const dirname = path.resolve();
+// let products = data.products;
 
-const dataPath = './data.json';
-const data = JSON.parse(fs.readFileSync(dataPath, 'utf-8'));
-
-
-let products = data.products;
-
-app.use('/products', productRouter);
 
 
 // getting-started.js
@@ -208,6 +207,8 @@ async function main() {
 //     });
 //   }
 // });
+
+app.use('/products', productRouter);
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
