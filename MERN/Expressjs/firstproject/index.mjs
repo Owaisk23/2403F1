@@ -5,12 +5,15 @@ import fs from 'node:fs';
 import productRouter from './routes/productRoutes.mjs';
 // const mongoose = require('mongoose');
 import mongoose from 'mongoose';
+import dotenv from 'dotenv';
+
 const app = express();
 
 const port = 3000;
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 
+dotenv.config();
 // const dirname = path.resolve();
 
 // const dataPath = './data.json';
