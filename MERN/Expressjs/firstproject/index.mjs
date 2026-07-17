@@ -3,6 +3,7 @@ import express from 'express';
 import path from 'path';
 import fs from 'node:fs';
 import productRouter from './routes/productRoutes.mjs';
+import userRouter from './routes/userRoutes.mjs';
 // const mongoose = require('mongoose');
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
@@ -212,6 +213,10 @@ async function main() {
 // });
 
 app.use('/products', productRouter);
+app.use('/users', userRouter)
+
+
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`);
