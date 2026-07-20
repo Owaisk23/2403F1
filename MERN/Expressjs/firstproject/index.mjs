@@ -1,5 +1,6 @@
 // const express = require('express');
 import express from 'express';
+import jwt from 'jsonwebtoken';
 import path from 'path';
 import fs from 'node:fs';
 import productRouter from './routes/productRoutes.mjs';
