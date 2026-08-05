@@ -11,7 +11,7 @@ import { useState, useEffect } from 'react';
 const Home = () => {
   const [products, setProducts] = useState([])
 
-const getProducts= async (params)=> {
+const getProducts= async(params)=> {
   const response= await axios.get("http://localhost:3000/products");
   console.log(response.data)
   setProducts(response.data.products)

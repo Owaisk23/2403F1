@@ -8,11 +8,13 @@ import userRouter from './routes/userRoutes.mjs';
 // const mongoose = require('mongoose');
 import mongoose from 'mongoose';
 import dotenv from 'dotenv';
+import cors from 'cors';
 
 const app = express();
 
 const port = 3000;
 app.use(express.json());
+app.use(cors());
 app.use(express.urlencoded({ extended: true }));
 
 dotenv.config();
@@ -31,7 +33,7 @@ dotenv.config();
 main().catch(err => console.log(err));
 
 async function main() {
-  await mongoose.connect('mongodb+srv://owaisahmedkhan:owais123@cluster0.mbgw7ps.mongodb.net/Mart');
+  await mongoose.connect('mongodb+srv://owaisahmedkhan:owais123@cluster0.mbgw7ps.mongodb.net/Perfumes');
   console.log("MongoDB Connected!")
   // use `await mongoose.connect('mongodb://user:password@127.0.0.1:27017/test');` if your database has auth enabled
 }

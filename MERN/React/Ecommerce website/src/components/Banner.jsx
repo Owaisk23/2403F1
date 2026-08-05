@@ -23,7 +23,7 @@ const Banner = () => {
         </div>
         <div className="carousel-item">
           <img
-  src="https://teascentedlibrary.files.wordpress.com/2020/01/ad-dior-rose-n-roses.jpg"
+  src="https://alshayaperfumes.com/cdn/shop/files/hp-slider-b0-summer-collection-050726-d.jpg?v=1783192519&width=2000"
             className="d-block w-100 img-fluid"
             alt="Slide 2"
             style={{
@@ -35,7 +35,7 @@ const Banner = () => {
         </div>
         <div className="carousel-item">
           <img
-            src="https://www.dior.com/dw/image/v2/BGXS_PRD/on/demandware.static/-/Library-Sites-DiorSharedLibrary/default/dwb4b65b01/images/beauty/0-HOME/BEAUTY/2025/04-APRIL/A25F117_LCP_GrisDior_Bottle_3700x2000_V2.jpg?sw=1920"
+            src="https://osmure.pk/wp-content/uploads/2022/02/osmure-slider-1-e1775598773227.jpg"
             className="d-block w-100 img-fluid"
             alt="Slide 3"
             style={{
